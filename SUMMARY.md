@@ -23,7 +23,7 @@
 ## Item view
 
 * Edit photos in an item.
-* [Take notes on or transcribe the content of an item.](/using\_tropy/item\_view/notes.md)
+* [Take notes on or transcribe the content of an item.](using\_tropy/item\_view/notes.md)
 
 * Using templates
 * Export from Tropy
