@@ -1,6 +1,6 @@
 ## Add tags
 
-**Select item and create a new tag in the tags tab**: To add tags to an item, click to the tags tab of the metadata pane. Select *Add Tag*, then type your new tag name. Press Enter to save your tag. That tag now appears in the tag list in the sidebar, as well as in the tags tab of the metadata pane.
+**Create a new tag in the tags tab**: To add tags to an item, click to the tags tab of the metadata pane. Select *Add Tag*, then type your new tag name. Press Enter to save your tag. That tag now appears in the tag list in the sidebar, as well as in the tags tab of the metadata pane.
 
 You can also add a new tag to a group of items. Ctrl/Command+click to select the items, and then click on the tags tab of the metadata pane. Select *Add Tag*, then type your new tag name. Press Enter to save your tag. The tag is now applied to all the items you have selected.
 
