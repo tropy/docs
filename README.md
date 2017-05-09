@@ -1,3 +1,7 @@
+# Tropy is in beta.
+
+This means that Tropy is not yet a stable piece of software. Please, please do NOT spend a lot of time and energy putting photos and notes into a Tropy project while it is in this first beta version. You will not be able to migrate your work to the next beta version (coming this summer). Save yourself time and frustration---wait a little while longer to use Tropy for your everyday research needs. 
+
 # What is Tropy? {#tropy}
 
 Tropy is free open-source desktop software that allows you to organize and describe photographs of research material. Once you have imported your photos into Tropy, you can combine photos into items \(e.g., photos of the three pages of a letter into a single item\), and group photos into lists. You can also describe the content of a photograph. Tropy uses customizable metadata templates with multiple fields for different properties of the content of your photo, for example, title, date, author, box, folder, collection, archive. You can enter information in the template for an individual photo or select multiple photos and add or edit information to them in bulk. Tropy also lets you add tags to describe the content of a photo. You can also add one or more notes to a photo; a note could be a transcription of a document. A search function lets you find material in your photos, using the information in the metadata, tags, and notes.
