@@ -1,15 +1,17 @@
 ## Combine multiple photos into one item
 
-Tropy items can include one or multiple photos.
+Tropy items can include one or multiple photos, making it easy to group multi-page documents.
 
-If you want to add photos to an item, and those photos are not already in Tropy, then right-click on the item you want to add photos to. Select *Add photo* and select one or more photos from your file system. Click *Open*. The photo will be added to your item; you can see it in the righthand pane under Photos.
+* You can easily combine items within Tropy.
 
-If your photos are already in Tropy, you can combine them into items easily. You have two options for creating multi-photo items.
+  1. **Drag and drop**: Drag an item on top of another item to combine them into one item.
 
-1. **Drag and drop**: Drag an item on top of another item to combine them into one item.
+  2. **Right-click**: Hold down the Command/Ctrl key, then click on each item. Right-click, then click *Merge selected items* from the drop-down menu.
 
-2. **Right-click**: Hold down the Command/Ctrl key, then click on each item. Right-click, then click *Merge selected items* from the drop-down menu.
+* If you want to add photos to an item, and those photos are not already in Tropy, then you have two options.
 
+  1. Right-click on the item you want to add photos to. Select *Add photo* and select one or more photos from your file system. Click *Open.* The photo will be added to your item; you can see it in the item pane under Photos.
+  2. In the item pane under photos, click the +. Select one or more photos, and click *Open*. 
 
 
 ### Merging metadata
