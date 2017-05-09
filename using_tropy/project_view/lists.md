@@ -2,9 +2,9 @@
 
 ### Create a new list.
 
-Create a new list by going to _File_ &gt; _New_ &gt; _List_.
+1. Create a new list by going to *File* &gt; *New* &gt; *List*. The new list appears in the sidebar. Now type a name for your list and press Enter.
 
-Create a list by right-clicking on _Lists_ or your project name in the left pane and selecting _New List_.
+2. Create a list by right-clicking on *Lists* or your project name in the left pane and selecting *New List*. 
 
 ### Add items to a list.
 
@@ -12,9 +12,9 @@ Drag and drop an item onto the list name in order to add it to that list. \(The 
 
 ### Remove items or lists.
 
-To remove an item from a list: Right-click on the item in the list and select _Remove Item From List._
+To remove an item from a list: Right-click on the item in the list and select *Remove Item From List.*
 
-To delete a list: Right-click on the list name and select _Delete list._
+To delete a list: Right-click on the list name and select *Delete list.*
 
   
 
