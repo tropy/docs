@@ -10,7 +10,7 @@
 * [Create a new project.](/using_tropy/create_project.md)
 * [Add photos to Tropy.](/using_tropy/add_files.md)
 
-## Project view
+## In the project view
 
 * [View photos in project view.](/using_tropy/project_view/view_photos.md)
 * [Organize items into lists.](/using_tropy/project_view/lists.md)
@@ -20,14 +20,10 @@
 * [Search for items, metadata, notes, or tags.](/using_tropy/project_view/search.md)
 * [Delete items.](/using_tropy/project_view/delete_photos.md)
 
-## Item view
+## In the item view
 
 * Edit photos in an item.
 * [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
-
-* Using templates
-
+* [Using templates](using_tropy/item_view/using-templates.md)
 * Export from Tropy
-
-
 
