@@ -18,4 +18,7 @@ To organize and describe your photos, you need to import them into Tropy. The fi
 ### Are your photos in the format required by Tropy?
 Tropy only works with .jpg/.jpeg files. It does NOT work with .tiff, .png, or gif files. You may need to convert your photos to JPG in order to use Tropy.
 
-*Beta version*: Tropy will include photo editing tools that allow you to make basic changes to a photo, such as rotating it. These tools are not available in the beta version. If you have photos that are oriented vertically not horizontally, you may want to change the orientation before importing them into Tropy
+*Beta version*: Tropy will include photo editing tools that allow you to make basic changes to a photo, such as rotating it. These tools are not available in the beta version. If you have photos that are oriented vertically not horizontally, you may want to change the orientation before importing them into Tropy.
+
+### Download Tropy.
+To use Tropy, you need to download a copy of the software from the Download page at [tropy.org](https://tropy.org/). Tropy is free software; there is no cost to download or use it. Tropy is available for macOS, Windows, and Linux. Choose the version for your operating system; once Tropy has downloaded, open it and follow the prompts to install it on your computer.
