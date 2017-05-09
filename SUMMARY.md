@@ -22,7 +22,7 @@
 
 ## In the item view
 
-* Edit photos in an item.
+* [Edit photos in an item.](/using_tropy/item_view/photo-editing.md)
 * [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
 
 ## Other stuff
