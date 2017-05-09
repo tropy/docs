@@ -15,4 +15,5 @@ You have two options for renaming a tag.
 
 2. In the Tags tab of the Metadata Pane, Ctrl/Command+click on the tag, and select *Rename tag.* Enter the new tag name and hit return. The tag will be renamed in the tags list in the left menu and in all the items to which it has been applied.
 
+**To remove a tag**: In the tags tab of the metadata pane, Ctrl/Command+click on the tag, and select *Remove tag.*
 
