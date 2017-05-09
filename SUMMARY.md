@@ -7,7 +7,7 @@
 
 ## Using Tropy
 
-* [Create a new project.](/using\_tropy/create_project.md)
+* [Create a new project.](/using_tropy/create_project.md)
 * [Add photos to Tropy.](/using\_tropy/add\_files.md)
 
 ## Project view
