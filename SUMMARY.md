@@ -29,5 +29,4 @@
 * [Using templates](using-templates.md)
 * [Export from Tropy](export.md)
 
-## Troubleshooting
-* [Check our forums.](forums.md)
+## [Troubleshooting](forums.md)
