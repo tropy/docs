@@ -12,5 +12,5 @@ To add or edit metadata to describe your item, click on it to select it. In the 
 
 3. Double-clicking on your item in the item table will bring you to the item view, where you can also edit the metadata, now in the lefthand pane.
 
-You can also edit the metadata for multiple items at a time. Ctrl/Command+click on each item you want to edit; then input your metadata into the metadata pane on the righthand side. The metadata you input will be applied to all items you have selected.
+You can also edit the metadata for multiple items at a time. Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the righthand side. The metadata you input will be applied to all items you have selected.
 
