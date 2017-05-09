@@ -1,6 +1,6 @@
 ## Add photos to Tropy.
 
-You have several options for adding items to your project.
+When you import a photo, Tropy makes a copy of the photo. The original photo remains in its original location on your hard drive. You have several options for adding photos to your project.
 
 1. Navigate to *File* &gt; *Import photos*.You can select one photo from your files, or using Shift+click or Ctrl/Command+click, you can select multiple photos. To select all photos in a folder, type Ctrl/Command+A. Then click *Open* in the dialog box.
 
@@ -13,5 +13,7 @@ You have several options for adding items to your project.
 You may want to add an item that does not yet have any photos attached to it. To do so, go to *File* &gt; *New* &gt; *Item*. You can then add photos to that item just as you would add photos to an item that already contains photos.
 
   
+**Note for Beta**: The beta version of Tropy is intended only for testing. You will NOT be able to migrate your photos from this version to later beta versions or to version 1.0. Given this, we recommend that you don’t upload large numbers of photos when testing the beta version.
+
 
 
