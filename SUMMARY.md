@@ -27,5 +27,5 @@
 
 ## Other stuff
 * [Using templates](using-templates.md)
-* Export from Tropy
+* [Export from Tropy](export.md)
 
