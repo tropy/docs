@@ -2,8 +2,8 @@
 
 ## Before you begin
 
-* [What is Tropy?](/beginning/README.md)
-* [Preparing to Use Tropy](/beginning/README.md#prepare)
+* [What is Tropy?](README.md#tropy)
+* [Preparing to Use Tropy](README.md#prepare)
 
 ## Using Tropy
 
