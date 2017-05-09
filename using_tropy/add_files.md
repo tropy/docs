@@ -4,7 +4,7 @@ When you import a photo, Tropy makes a copy of the photo. The original photo rem
 
 1. Navigate to *File* &gt; *Import photos*. You can select one photo from your files, or using Shift+click or Ctrl/Command+click, you can select multiple photos. To select all photos in a folder, type Ctrl/Command+A. Then click *Open* in the dialog box.
 
-2. Click the + in the menu bar above the center pane in project view.
+2. Click the + in the menu bar above the item table in project view.
 
 2. From your computer’s file system, navigate to the folder where your photos are, and select one or more photos. Then drag those photos into the middle pane of Tropy in order to add them.
 
