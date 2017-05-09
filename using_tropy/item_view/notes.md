@@ -15,3 +15,5 @@ You can format your notes using the toolbar at the top of the notes pane. Select
 * Bulleted list
 * Enumerated list
 * Hyperlink
+
+Tropy items can have as many notes as you want. To add a new note, click the + on the notes pane.
