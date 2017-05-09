@@ -24,6 +24,8 @@
 
 * Edit photos in an item.
 * [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
-* [Using templates](using_tropy/item_view/using-templates.md)
+
+## Other stuff
+* [Using templates](using-templates.md)
 * Export from Tropy
 
