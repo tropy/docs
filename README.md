@@ -1,6 +1,12 @@
+---
+description: >-
+  Tropy is free open-source software that allows you to organize and describe
+  photographs of research material.
+---
+
 # Tropy is in beta.
 
-This means that Tropy is not yet a stable piece of software. Please, please do NOT spend a lot of time and energy putting photos and notes into a Tropy project while it is in this first beta version. You will not be able to migrate your work to the next beta version (coming this summer). Save yourself time and frustration---wait a little while longer to use Tropy for your everyday research needs. 
+This means that Tropy is not yet a stable piece of software. Please, please do NOT spend a lot of time and energy putting photos and notes into a Tropy project while it is in this first beta version. You will not be able to migrate your work to the next beta version \(coming this summer\). Save yourself time and frustration---wait a little while longer to use Tropy for your everyday research needs.
 
 # What is Tropy? {#tropy}
 
