@@ -2,3 +2,8 @@
 .book-summary ul.summary li span {
   white-space: normal;
 }
+
+.markdown-section img {
+  display: block;
+  margin: auto;
+}
