@@ -1,7 +1,5 @@
 ## Add photos to Tropy.
 
-![](/assets/empty-project-view.png)
-
 When you import a photo, Tropy makes a copy of the photo. The original photo remains in its original location on your hard drive. You have several options for adding photos to your project.
 
 1. Navigate to *File* &gt; *Import photos*. You can select one photo from your files, or using Shift+click or Ctrl/Command+click, you can select multiple photos. To select all photos in a folder, type Ctrl/Command+A. Then click *Open* in the dialog box.
