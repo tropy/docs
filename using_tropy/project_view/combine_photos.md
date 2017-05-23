@@ -5,8 +5,12 @@ Tropy items can include one or multiple photos, making it easy to group multi-pa
 * You can easily combine items within Tropy.
 
   1. **Drag and drop**: Drag an item on top of another item to combine them into one item.
+  
+    ![](/assets/drag-and-drop-merge.png)
 
   2. **Right-click**: Hold down the Command/Ctrl key, then click on each item. Right-click, then click *Merge selected items* from the drop-down menu.
+  
+    ![](/assets/right-click-merge.png)
 
 * If you want to add photos to an item, and those photos are not already in Tropy, then you have two options.
 
