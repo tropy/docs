@@ -1,7 +1,7 @@
 ## View photos in project view.
 
 In project view, you can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left. 
-Moving the slider to the right switches the display to a grid.
+
 
 ![](/assets/view-photos.png)
 
