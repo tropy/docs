@@ -5,6 +5,8 @@ Moving the slider to the right switches the display to a grid.
 
 ![](/assets/view-photos.png)
 
+Moving the slider to the right switches the display to a grid.
+
 ![](/assets/grid-view.png)
 
 If you are viewing your photos as a list, you can sort the list by column. Just click on the name of the column you want to sort by. The arrow \(^\) indicates which column your items are sorted by and whether they are sorted ascending \(^\) or descending \(ˇ\).
