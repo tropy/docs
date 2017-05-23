@@ -6,6 +6,8 @@ When you import a photo, Tropy makes a copy of the photo. The original photo rem
 
 2. Click the + in the menu bar above the item table in project view.
 
+![](/assets/add_photos.png)
+
 2. From your computer’s file system, navigate to the folder where your photos are, and select one or more photos. Then drag those photos into the middle pane of Tropy in order to add them.
 
 **Note:** At this time, Tropy does not support drag-and-drop from Apple’s photo software, including iPhoto and Photos.app. To get photos from Photos, export your photos to a different location on your computer and then follow the steps above.
