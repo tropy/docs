@@ -6,7 +6,7 @@ When you import a photo, Tropy makes a copy of the photo. The original photo rem
 
 2. Click the + in the menu bar above the item table in project view.
 
-![](/assets/add_photos.png)
+  ![](/assets/add_photos.png)
 
 2. From your computer’s file system, navigate to the folder where your photos are, and select one or more photos. Then drag those photos into the middle pane of Tropy in order to add them.
 
