@@ -8,7 +8,9 @@
 
 ### Add items to a list.
 
-Drag and drop an item onto the list name in order to add it to that list. \(The item will remain in the main project view.\) Items can appear in more than one list.
+Drag and drop an item onto the list name in order to add it to that list. \(The item will remain in the main project view.\) Items can appear in more than one list. 
+
+You can add multiple items to a list at once, by selecting multiple items (using Ctrl/Command+click) and then dragging them to a list name.
 
 ### Remove items or lists.
 
