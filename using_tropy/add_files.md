@@ -20,4 +20,6 @@ You may want to add an item that does not yet have any photos attached to it. To
 **Note for Beta**: The beta version of Tropy is intended only for testing. You will NOT be able to migrate your photos from this version to later beta versions or to version 1.0. Given this, we recommend that you don’t upload large numbers of photos when testing the beta version.
 
 
+**Troubleshooting**: When you import photos into Tropy, make sure the search box is clear; otherwise it will seem like your photos are not importing.
+
 
