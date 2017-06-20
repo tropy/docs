@@ -1,6 +1,6 @@
 ## Combine multiple photos into one item
 
-Tropy items can include one or multiple photos, making it easy to group multi-page documents.
+Tropy items can include one or multiple photos, making it easy to group multi-page documents. All photos within an item share the same metadata. Merging is not intended to collect multiple different documents, but rather to combine multiple photos that belong to the same document. **Grouping items into topical or organizational collections is best done with lists or tags.**
 
 * You can easily combine items within Tropy.
 
