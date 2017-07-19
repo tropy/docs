@@ -27,10 +27,12 @@
 
 ## Other features
 
-* [Using templates](using-templates.md)
+* [Using templates](/using_tropy/templates/using-templates.md)
 * [Export from Tropy](export.md)
 
 ## Troubleshooting
 
 * [Forums](forums.md)
+
+
 
