@@ -1,8 +1,6 @@
 ## Add metadata to items
 
-To describe the content of a photograph, Tropy uses customizable metadata templates with multiple fields for different properties of the content of your photo, for example, title, date, author, box, folder, collection, archive, and rights. 
-
-**Beta note**: In the beta, metadata templates are not customizable. In Tropy 1.0, you will be able to create and edit templates.
+To describe the content of a photograph, Tropy uses customizable metadata templates with multiple fields for different properties of the content of your photo, for example, title, date, author, box, folder, collection, archive, and rights.
 
 To add or edit metadata to describe your item, click on it to select it. In the metadata pane on the righthand side of the project view, select a template from the pull-down menu. Then you have several options for adding information.
 

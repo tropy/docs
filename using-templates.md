@@ -1,1 +1,0 @@
-The beta version of Tropy does not support creation of new templates or customization of current templates. Stay tuned for Tropy 1.0!
