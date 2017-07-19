@@ -18,17 +18,19 @@ Each template requires a name and a URI at minimum. The creator and description 
 
 * **Description**: A short one- or two-sentence statement about the purpose of the template would be useful here; for example, if it is targeted at a particular collection, you could record which collection or collections would work best with the template.
 
-Once you have filled out all the appropriate fields, click on Create 
+Once you have filled out all the appropriate fields, click on Create
 
 ### Creating new fields in your template
 
-Now that you have the metadata about your template, you can create fields in your template. 
+Now that you have the metadata about your template, you can create fields in your template.
 
 ![](/assets/template-fields@2x.png)Tropy currently only allows fields that have URIs in an existing metadata schema. This means that if you have no familiarity with metadata schemas, you are much better off working with an existing template rather than trying to create your own from scratch.
 
-* **Property**: The drop-down box here allows you to select from a list of properties that appear in various metadata schemas. The Dublin core fields are the default; you can add other metadata schemas in the Vocabulary section in Preferences. 
-
-
+* **Property**: The drop-down box here allows you to select from a list of properties that appear in various metadata schemas. The Dublin core fields are the default; you can add other metadata schemas in the [Vocabulary](/using_tropy/templates/vocabularies.md) section in Preferences. 
+  * The last part of the URI in the property is what will appear as the label on the field in the metadata pane in the project or item view. For example, for the property `http://purl.org/dc/elements/date`, the label on the field would be "Date." At this moment, it is not possible to change the label to something else and keep the same property.
+* **Is mandatory field**: If this box is checked, Tropy will post an alert button next to the field in the metadata pane in the project or item view of Tropy until it is properly filled in.
+* **Hint**: The hint will appear in the editable field of the metadata template in the project or item view. Because labels on the properties cannot be changed \(currently\), the hint is a useful way to remind yourself of what you meant by the property you selected. For example, if you select property "Source," you might put "Archive" in the hint to remind yourself that you want to think of the archive as the source. 
+* **Default value**: If this box is filled in, the text in the box will appear automatically in the metadata pane in the project or item view. This feature is especially relevant for institutions creating templates for patrons to use. You can fill in, for example, the name of your institution, as you wish it to appear, the rights information attached to your collections, and other fields that will be the same no matter who uses the template. 
 
 
 
