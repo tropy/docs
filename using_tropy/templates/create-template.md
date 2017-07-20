@@ -32,5 +32,9 @@ Now that you have the metadata about your template, you can create fields in you
 * **Hint**: The hint will appear in the editable field of the metadata template in the project or item view. Because labels on the properties cannot be changed \(currently\), the hint is a useful way to remind yourself of what you meant by the property you selected. For example, if you select property "Source," you might put "Archive" in the hint to remind yourself that you want to think of the archive as the source. 
 * **Default value**: If this box is filled in, the text in the box will appear automatically in the metadata pane in the project or item view. This feature is especially relevant for institutions creating templates for patrons to use. You can fill in, for example, the name of your institution, as you wish it to appear, the rights information attached to your collections, and other fields that will be the same no matter who uses the template. 
 
-To add more fields to your template, simply click on the + on the right-hand side. To delete fields, click on the -. 
+To add more fields to your template, simply click on the + on the right-hand side. To delete fields, click on the -.
+
+You can re-order your fields by dragging their boxes. Click and hold on the left-hand side of the box to place your fields in a different order.
+
+
 
