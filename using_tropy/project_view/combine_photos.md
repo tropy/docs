@@ -5,18 +5,17 @@ Tropy items can include one or multiple photos, making it easy to group multi-pa
 * You can easily combine items within Tropy.
 
   1. **Drag and drop**: Drag an item on top of another item to combine them into one item.
-  
-    ![](/assets/drag-and-drop-merge.png)
 
-  2. **Right-click**: Hold down the Command/Ctrl key, then click on each item. Right-click, then click *Merge selected items* from the drop-down menu.
-  
-    ![](/assets/right-click-merge.png)
+     ![](/assets/drag-and-drop-merge.png)
+
+  2. **Right-click**: Hold down the Command/Ctrl key, then click on each item. Right-click, then click _Merge selected items_ from the drop-down menu.
+
+     ![](/assets/right-click-merge.png)
 
 * If you want to add photos to an item, and those photos are not already in Tropy, then you have two options.
 
-  1. Right-click on the item you want to add photos to. Select *Add photo* and select one or more photos from your file system. Click *Open.* The photo will be added to your item; you can see it in the item pane under Photos.
-  2. In the item pane under photos, click the +. Select one or more photos, and click *Open*. 
-
+  1. Right-click on the item you want to add photos to. Select _Add photo_ and select one or more photos from your file system. Click _Open._ The photo will be added to your item; you can see it in the item pane under Photos.
+  2. In the item pane under photos, click the +. Select one or more photos, and click _Open_. 
 
 ### Merging metadata
 
@@ -28,8 +27,15 @@ Metadata conflicts: When you merge two items that have different metadata, Tropy
 
 Additional metadata: If a metadata field is filled out in one item but is not filled out in others, then the filled metadata field is applied to the entire item.
 
-All merge operations can be undone. You can undo from the top menu, under *Edit*, or by right-clicking on an item and selecting *Undo* from the menu.
+All merge operations can be undone. You can undo from the top menu, under _Edit_, or by right-clicking on an item and selecting _Undo_ from the menu.
 
-  
+
+
+### Exploding an item
+
+You may realize at some point that you have erroneously merged items that should be separate. If you realize it immediately, you can simply undo by right-clicking and selecting Undo. If you have done many other tasks in Tropy before you realize your error, you should use the Explode function instead.
+
+Right-click on the item you have erroneously merged and select _Explode Item_. When you do this, each photo in your item becomes a separate item, but each new item retains the metadata that existed in the combined item before explosion. From there, you can treat each new item just as a regular item, re-merging or editing the metadata on each item.
+
 
 
