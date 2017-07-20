@@ -25,9 +25,14 @@
 * [Edit photos in an item.](/using_tropy/item_view/photo-editing.md)
 * [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
 
+## In the template editor
+
+* [Create a new template.](/using_tropy/templates/create-template.md)
+* [Edit a template.](/using_tropy/templates/edit-templates.md)
+* [Export and import templates.](/using_tropy/templates/export-import-templates.md)
+
 ## Other features
 
-* [Using templates](/using_tropy/templates/using-templates.md)
 * [Export from Tropy](export.md)
 
 ## Troubleshooting
