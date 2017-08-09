@@ -15,11 +15,11 @@ You have two options for renaming a tag.
 
 2. In the Tags tab of the metadata pane, Ctrl/Command+click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in the tags list in the left menu and in all the items to which it has been applied.
 
-**To remove a tag**: In the tags tab of the metadata pane, Ctrl/Command+click on the tag, and select _Remove tag._
+**To remove a tag**: In the tags tab of the metadata pane, click on a tag to select it and then hit Backspace to remove a tag from an item.
+
+**To delete a tag completely**: In the sidebar, right-click on a tag and select _Delete tag. _
 
 ### Colored tags
 
 Once you have created a tag, you can assign it a color. In the tag list in the sidebar, right-click on the tag name and navigate to Change Color. If you assign a color to a tag, items with that tag will receive a small colored circle in grid view so that you can easily see which items have colored tags.
-
-
 
