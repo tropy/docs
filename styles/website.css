@@ -1,10 +1,20 @@
-.book-summary ul.summary li a,
-.book-summary ul.summary li span {
-  white-space: normal;
+.markdown-section a,
+.markdown-section .glossary-term {
+  text-decoration: none;
+}
+
+.markdown-section a:hover,
+.markdown-section .glossary-term:hover {
+  text-decoration: underline;
 }
 
 .markdown-section img {
   display: block;
   margin: auto;
   border: 1px solid #e8e8e8;
+}
+
+.book-summary ul.summary li a,
+.book-summary ul.summary li span {
+  white-space: normal;
 }
