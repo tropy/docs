@@ -11,9 +11,10 @@ You can format your notes using the toolbar at the top of the notes pane. Select
 * Block quote
 * Superscript
 * Subscript
-* Right, center, and left align
 * Bulleted list
 * Enumerated list
-* Hyperlink
+
+Several formatting actions are taken for you automatically, including creating em and en dashes. 
 
 Tropy items can have as many notes as you want. To add a new note, click the + on the notes pane.
+
