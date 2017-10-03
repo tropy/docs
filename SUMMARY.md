@@ -23,6 +23,7 @@
 ## In the item view
 
 * [Edit photos in an item.](/using_tropy/item_view/photo-editing.md)
+* [Create selections within an item.](/using_tropy/item_view/selections.md)
 * [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
 
 ## In the template editor
