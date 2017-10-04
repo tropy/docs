@@ -1,4 +1,4 @@
 ## Edit photos in an item.
 
-Tropy allows you to do basic photo editing. You can
+The beta version of Tropy does not support photo editing. Later releases will provide basic photo editing functions, including rotate, crop, zoom, and contrast adjustment.
 

@@ -15,7 +15,7 @@
 * [View photos in project view.](/using_tropy/project_view/view_photos.md)
 * [Combine photos into items.](/using_tropy/project_view/combine_photos.md)
 * [Add metadata to items.](/using_tropy/project_view/add_metadata.md)
-* [Add tags to items.](/using_tropy/project_view/tags.md)
+* [Tag items.](/using_tropy/project_view/tags.md)
 * [Organize items into lists.](/using_tropy/project_view/lists.md)
 * [Search for items, metadata, notes, or tags.](/using_tropy/project_view/search.md)
 * [Delete items.](/using_tropy/project_view/delete_photos.md)
@@ -39,6 +39,4 @@
 ## Troubleshooting
 
 * [Forums](forums.md)
-
-
 
