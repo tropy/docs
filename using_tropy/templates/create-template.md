@@ -18,7 +18,7 @@ Each template requires a name and a URI at minimum. The creator and description 
 
 * **Description**: A short one- or two-sentence statement about the purpose of the template would be useful here; for example, if it is targeted at a particular collection, you could record which collection or collections would work best with the template.
 
-Once you have filled out all the appropriate fields, click on Create
+Once you have filled out all the appropriate fields, click _Create_.
 
 ### Creating new fields in your template
 

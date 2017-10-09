@@ -7,7 +7,7 @@ Editing templates is a process similar to creating templates. There are two ways
 
 ![](/assets/template-header@2x.png)
 
-Once you have duplicated the template, rename your duplicate and assign it a different URI.Then click Create.
+Once you have duplicated the template, rename your duplicate and assign it a different URI.Then click _Create_.
 
 After you have created the new template, you can change fields, add fields, or delete fields.
 
