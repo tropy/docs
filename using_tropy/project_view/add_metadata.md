@@ -2,6 +2,8 @@
 
 To describe the content of a photograph, Tropy uses customizable metadata templates with multiple fields for different properties of the content of your photo, for example, title, date, author, box, folder, collection, archive, and rights.
 
+You can add a new template to your Tropy project to ensure that the metadata you want is in your template. You can also edit an existing template to reorder, add, or subtract fields.
+
 To add or edit metadata to describe your item, click on it to select it. In the metadata pane on the righthand side of the project view, select a template from the pull-down menu. Then you have several options for adding information.
 
 1. Enter your metadata information in the metadata pane on the righthand side of the window. Press Enter or Tab to save your information and move on.
@@ -10,5 +12,27 @@ To add or edit metadata to describe your item, click on it to select it. In the 
 
 3. Double-clicking on your item in the item table will bring you to the item view, where you can also edit the metadata, now in the lefthand pane.
 
-You can also edit the metadata for multiple items at a time. Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the righthand side. The metadata you input will be applied to all items you have selected.
+#### Editing Metadata in Bulk
+
+You can edit the metadata for multiple items at a time. Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the righthand side. The metadata you input will be applied to all items you have selected.
+
+
+
+#### Photo Metadata from Camera
+
+Digital cameras store information about images they capture in the header of the digital file, using the EXIF standard. That information usually includes the camera make and models, the camera settings and the date the photograph was taken.
+
+Tropy imports some of that photo metadata and displays it underneath the item metadata.
+
+* file name \(which is editable when you select the photo and then click on it to move to editable mode in the photo pane\)
+* date image was taken
+* image size in pixels
+* file size
+* date added to Tropy
+* date last modified in Tropy
+
+  
+
+
+
 

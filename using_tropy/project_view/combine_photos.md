@@ -33,5 +33,5 @@ All merge operations can be undone. You can undo from the top menu, under _Edit_
 
 You may realize at some point that you have erroneously merged items that should be separate. If you realize it immediately, you can undo by right-clicking and selecting Undo. If you have performed other tasks in Tropy before you realize your error, you should use the Explode function instead.
 
-Right-click on the item you have erroneously merged and select _Explode Item_. When you do this, each photo in your item becomes a separate item, but each new item retains the metadata that existed in the combined item before explosion. From there, you can treat each new item just as a regular item, re-merging or editing the metadata on each item.
+Right-click on the item you have erroneously merged and select _Explode Item_. When you do this, each photo in your item becomes a separate item, but each new item retains the metadata that existed in the combined item before explosion. Exploding an item does not restore metadata to an item from before it was merged. From there, you can treat each new item just as a regular item, re-merging or editing the metadata on each item.
 
