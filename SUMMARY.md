@@ -3,7 +3,8 @@
 ## Before you begin
 
 * [What is Tropy?](README.md#tropy)
-* [Preparing to Use Tropy](README.md#prepare)
+* [Preparing to use Tropy](README.md#prepare)
+* [Who owns the rights to my archival materials?](/beginning/rights.md)
 
 ## Using Tropy
 
@@ -39,4 +40,6 @@
 ## Troubleshooting
 
 * [Forums](forums.md)
+
+
 
