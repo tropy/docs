@@ -1,4 +1,4 @@
-## Who owns the rights to your material?
+## Who owns the rights to the material I use?
 
 As you work with archival materials, it is important for you to remember that the owner of the materials may have legal rights to restrict your use or publication of them. Finding copyrighted materials in an archive doesn’t mean you can’t read those materials and cite them in your work. Copyright law allows archives and libraries to provide copies for use in private study, scholarship or research. However, you would need to get permission of the copyright owner before publishing your digital photos of that material. Putting material on a publicly accessible website constitutes publication.
 

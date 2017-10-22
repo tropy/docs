@@ -4,7 +4,7 @@
 
 * [What is Tropy?](README.md#tropy)
 * [Preparing to use Tropy](README.md#prepare)
-* [Who owns the rights to my archival materials?](/beginning/rights.md)
+* [Who owns the rights to the archival materials I use?](/beginning/rights.md)
 
 ## Using Tropy
 
