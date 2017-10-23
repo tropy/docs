@@ -6,17 +6,19 @@ You can add a new template to your Tropy project to ensure that the metadata you
 
 To add or edit metadata to describe your item, click on it to select it. In the metadata pane on the righthand side of the project view, select a template from the pull-down menu. Then you have several options for adding information.
 
-1. Enter your metadata information in the metadata pane on the righthand side of the window. Press Enter or Tab to save your information and move on.
+1. Enter your metadata information in the metadata pane on the righthand side of the window. Press Enter to save your information, or press Tab to save your information and move on to the next field.
 
-2. While your item is selected in the center pane, click again on the field you wish to edit. Type in your information. Once you’ve completed your entry, press Enter or Tab to save your information and move on.
+2. While your item is selected in the center pane, click again on the field you wish to edit. Type in your information. Once you’ve completed your entry, press Enter or Tab to save your information and move on. You can also open editable mode by pressing Enter while an item is selected.
 
 3. Double-clicking on your item in the item table will bring you to the item view, where you can also edit the metadata, now in the lefthand pane.
 
 #### Editing Metadata in Bulk
 
-You can edit the metadata for multiple items at a time. Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the righthand side. The metadata you input will be applied to all items you have selected.
+You can edit the metadata for multiple items at a time. 
 
-
+* Ctrl/Command+click on each item you want to edit; then type your metadata into the metadata pane on the righthand side. 
+* To select a large group, press Shift, then select the last item of the group you want to select. The metadata you input will be applied to all items you have selected.
+* To select everything in the item table, press Ctrl/Command+A. 
 
 #### Photo Metadata from Camera
 
@@ -30,9 +32,6 @@ Tropy imports some of that photo metadata and displays it underneath the item me
 * file size
 * date added to Tropy
 * date last modified in Tropy
-
-  
-
 
 
 
