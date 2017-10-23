@@ -37,6 +37,7 @@
 ## Other features
 
 * [Export from Tropy](export.md)
+* [Keyboard shortcuts in Tropy](/keyboard-shortcuts.md)
 
 ## Troubleshooting
 
