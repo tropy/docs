@@ -4,5 +4,5 @@ To search across all metadata, tags, and notes, click in the search box at the t
 
 To clear your search, delete your search term from the search box.
 
-**Beta note**: For the beta, only a simple quick search is available. In later releases, advanced filtered search will also be available.
+
 
