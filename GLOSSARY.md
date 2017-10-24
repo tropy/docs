@@ -16,7 +16,7 @@ Lists are a group of photos selected from a project. This feature is useful if y
 
 ## Metadata
 
-Metadata is "data about data," or information recorded about objects, documents, and other items to help catalog, describe, and organize it. Metadata can include information about the content of an item, its location, its purpose, or any number of other descriptors.
+Metadata is "data about data," or information recorded about objects, documents, and other items to help catalog, describe, and organize it. Metadata can include information about the content of an item, its location, its purpose, or any number of other descriptors. For more about metadata, see [What is metadata and how do I use it?](//beginning/metadata.md)
 
 ## Metadata pane
 
