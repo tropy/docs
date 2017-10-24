@@ -35,17 +35,15 @@ Descriptive metadata will allow you to quickly and easily locate your sources at
 
 3. Pay attention to the purpose of each category/field.
 
-
-
 ## Metadata & Tropy Templates
 
-What follows is a brief explanation of the fields used in the three default templates that are included with Tropy.
+What follows is a brief explanation of the fields used in two of the default templates that are included with Tropy. Tropy also ships with a neutral Dublin Core template, which retains the Dublin Core labels. In the template list, you'll see Tropy Photo and Tropy Photo Selection as well. While you can create additional templates for the photo and selection level, we recommend leaving the default photo and selection templates as default and doing your heavy metadata work on the item level.
 
-### Archives Generic
+### Tropy Generic
 
 Incorporating widely used forms of archival organization \(box, folder, identifier\) and basic features of research material \(author, date, type of source\), this template is intended to provide a framework that applies to many kinds of research. Additional fields can be added to customize the template to include characteristics of specific collections. At present you can only use each property once in a template.
 
-#### Title 
+#### Title
 
 _Title_ is the name of the source. Documents such as books, pamphlets, and even memos have obvious titles that can be recorded in this field. Best practice for metadata suggests that you consider including more than just such a title, and use this field for a short description of the document that provides the essential information about it.
 
@@ -63,7 +61,7 @@ _Property used:_ purl.org/dc/elements/1.1/creator
 
 _Label_: The Dublin Core metadata standard was designed to be core categories applicable to a wide range of resources, so it uses _creator_ rather than more specific forms such as author, filmmaker, sculptor, etc. This template replaces “creator” with “author” to reflect the specific form of the documents to which it will be applied. You could also re-label the field to “artist,” “architect,” or whatever type of creator you are working with.
 
-#### Date 
+#### Date
 
 _Date_ is the date a source was created. If you are unsure of the exact date, it is always better to include a date range than no date at all.
 
@@ -95,8 +93,7 @@ _Collection_ is the name of the collection of which the source is a part, e.g., 
 
 _Property used_: tropy.org/v1/tropy\#collection
 
-Existing metadata vocabularies do not offer elements that fit the way that archival material is typically organized. For that reason, Tropy includes a limited number of custom metadata elements.  
-
+Existing metadata vocabularies do not offer elements that fit the way that archival material is typically organized. For that reason, Tropy includes a limited number of custom metadata elements.
 
 You could copy and modify this template to create a template for a specific archive. If you added a default value in this field, you would not have to enter the information for each item or group of items.
 
@@ -134,12 +131,9 @@ _Mandatory field_: Given how easy it is to share digital images and publish them
 
 _Property used_: dc/elements/1.1/rights
 
-  
+### Tropy Correspondence
 
-
-### Archives Correspondence
-
-Incorporating elements from the Archives Generic template, this template is intended specifically for correspondence, a widely used source. Additional fields can be added to customize the template to include characteristics of specific collections.At present you can only use each property once in a template. Most of the Archives Correspondence fields appear in the Archives Generic template as well. We’ve highlighted here the fields that have been added to or modified in Archives Correspondence.
+Incorporating elements from the Tropy Generic template, this template is intended specifically for correspondence, a widely used source. Additional fields can be added to customize the template to include characteristics of specific collections.At present you can only use each property once in a template. Most of the Tropy Correspondence fields appear in the Tropy Generic template as well. We’ve highlighted here the fields that have been added to or modified in Tropy Correspondence.
 
 #### Type
 
@@ -163,13 +157,11 @@ _Label_: This template replaces “audience” with the more specific term “re
 
 _Location_ is the location from which a letter was sent.
 
-To effectively organize sources, use a controlled vocabulary. The [Library of Congress Name Authorities](http://authorities.loc.gov/help/name-auth.htm), [Getty Thesaurus of Geographic Names](http://www.getty.edu/research/tools/vocabularies/tgn/), and[GeoNames](http://www.geonames.org/)are good resources.  
+To effectively organize sources, use a controlled vocabulary. The [Library of Congress Name Authorities](http://authorities.loc.gov/help/name-auth.htm), [Getty Thesaurus of Geographic Names](http://www.getty.edu/research/tools/vocabularies/tgn/), and [GeoNames](http://www.geonames.org/) are good resources.  
 _Property used_: purl.org/dc/elements/1.1/coverage  
-Label: This template replaces _coverage_ with the more specific term _location_ to reflect the specific form of the documents to which it will be applied. \(The Dublin Core element coverage can refer to spatial or temporal features of a source.\)
+_Label_: This template replaces _coverage_ with the more specific term _location_ to reflect the specific form of the documents to which it will be applied. \(The Dublin Core element coverage can refer to spatial or temporal features of a source.\)
 
-
-
-### **Tags**
+## **Tags**
 
 A tag is a freely chosen keyword or phrase; it can be as idiosyncratic as you want. It can refer to any feature of a source, rather than a specific category, as in the structured metadata of a Tropy template. You can add as many tags as you want to an item.
 
@@ -177,22 +169,16 @@ Essentially, there is no such thing as a bad tag; if it’s useful to you, it’
 
 In Tropy, one distinction between template fields and tags is in how you access the items described. All the items with a tag can be found simply by clicking on the tag in the project view. To find all the items described with a particular term in the metadata template, you need to search for that term in the project view.
 
-### **Photo metadata**
+## **Photo metadata**
 
 Digital cameras store information about images in the header of the digital file, using the Exif standard. That information usually includes the camera make and models, the camera settings and the date the photograph was taken.
 
 Tropy imports some of that photo metadata, and displays it under the item metadata:
 
-*  the file name;
+* the file name;
 * the date the image was taken;
 * the image size in pixels;
 * the file size.
 
-  
-
-
-
-
-  
 
 

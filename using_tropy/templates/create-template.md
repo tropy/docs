@@ -1,6 +1,8 @@
 ## Creating a new template
 
-There are several steps to creating a new template. When you first open the Preferences pane, New Template will be the default, but if you click over to one of the other templates, you can get back to New Template by clicking on it in the Template drop-down box or by clicking the first button next to the drop-down.
+There are several steps to creating a new template. Before you begin, you may want to review our [documentation on metadata](/beginning/metadata.md).
+
+When you're ready to make your template, navigate to Tropy &gt; Preferences and click to the Templates section. When you first open the Preferences pane, New Template will be the default, but if you click over to one of the other templates, you can get back to New Template by clicking on it in the Template drop-down box or by clicking the first button next to the drop-down.
 
 ### Metadata about your template![](/assets/template-header@2x.png)
 
