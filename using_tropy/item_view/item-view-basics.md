@@ -9,5 +9,9 @@ Item view is where you can focus on the content of your items. You can edit meta
 * Move to next photo \(within an item\): Alt+right arrow
 * Move to previous photo \(within an item\): Alt+left arrow
 
+![](/assets/Item-view.png)
+
+
+
 
 
