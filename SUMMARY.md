@@ -4,6 +4,7 @@
 
 * [What is Tropy?](README.md#tropy)
 * [Preparing to use Tropy](README.md#prepare)
+* [Transitioning from the beta to the 1.0](/beginning/beta-to-1.md)
 * [Who owns the rights to the archival materials I use?](/beginning/rights.md)
 * [What is metadata and how do I use it?](/beginning/metadata.md)
 
