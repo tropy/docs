@@ -8,7 +8,7 @@ To add or edit metadata to describe your item, click on it to select it. In the 
 
 1. Enter your metadata information in the metadata pane on the righthand side of the window. Press Enter to save your information, or press Tab to save your information and move on to the next field.
 
-2. Edit your metadata directly in the item table. While your item is selected in the item table, click again on the field you wish to edit. Type in your information. Once you’ve completed your entry, press Enter or Tab to save your information and move on. You can also open editable mode by pressing Enter while an item is selected.
+2. When viewing your items as a list, you can directly edit fields that appear in list columns. Select your item in the item table, and click again on the field you wish to edit. Once you’ve completed your entry, press Enter or Tab to save your information and move on. You can also edit fields by pressing Enter while an item is selected.
 
 3. Double-clicking on your item in the item table will bring you to the item view, where you can also edit the metadata, now in the lefthand pane.
 
