@@ -13,8 +13,6 @@ Tropy is free, open-source software that allows you to organize and describe pho
 * Tropy is not a platform for writing up your research \(e.g., DEVONthink\). While it does allow you to take notes attached to photos, you cannot use it to create any other kind of document.
 * Tropy is not a platform for presenting your research online \(e.g., Omeka\). It operates on your personal computer, not on a server. You can export your projects to platforms that can be used to present material online, including to Omeka \(not available in beta version\).
 
-
-
 # Preparing to use Tropy {#prepare}
 
 ### Where are your photos?
@@ -30,4 +28,10 @@ Tropy also does not work with any non-image format files such as PDF. There are 
 ### Download Tropy.
 
 To use Tropy, you need to download a copy of the software from the Download page at [tropy.org](https://tropy.org/). Tropy is free software; there is no cost to download or use it. Tropy is available for macOS, Windows, and Linux. Choose the version for your operating system; once Tropy has downloaded, open it and follow the prompts to install it on your computer.
+
+### Watch this quick overview of Tropy's functions.
+
+&lt;iframe src="https://player.vimeo.com/video/239557418" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
