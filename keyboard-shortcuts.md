@@ -17,7 +17,6 @@ Here is a list of global keyboard shortcuts for use in Tropy. More specific shor
 | Cut | Ctrl/Command+X |
 | Copy | Ctrl/Command+C |
 | Paste | Ctrl/Command+V |
-|  |  |
 
 
 
