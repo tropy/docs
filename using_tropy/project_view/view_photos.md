@@ -4,7 +4,7 @@ Tropy has two views for working with your items. The project view appears by def
 
 ### Project view
 
-In project view, you can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left.
+In project view, you can view your items in a list or in a photo grid. To switch between these views, use the slider at the top of the item table. Your photos appear as a list when the slider is all the way to the left. The columns in the list view correspond to commonly used fields in the [Tropy Generic](//beginning/metadata.md) template.
 
 ![](/assets/view-photos.png)
 
