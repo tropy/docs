@@ -1,4 +1,4 @@
-## Add photos to Tropy.
+## Add photos to Tropy
 
 When you import a photo, Tropy makes a thumbnail copy of the photo. The original photo remains in its original location on your hard drive. You have several options for adding photos to your project.
 

@@ -1,4 +1,4 @@
-## Editing Templates
+## Edit a template
 
 Editing templates is a process similar to creating templates. There are two ways to edit a template.
 

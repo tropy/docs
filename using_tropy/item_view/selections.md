@@ -1,4 +1,4 @@
-## Using Selections
+## Using selections
 
 Selections are a tool for capturing specific portions of an item that you wish to highlight or analyze further. They essentially create a cropped copy of your photo that you can then rename and add notes to.
 

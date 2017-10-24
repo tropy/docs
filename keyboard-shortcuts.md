@@ -1,4 +1,4 @@
-## Keyboard Shortcuts
+## Keyboard shortcuts
 
 Here is a list of global keyboard shortcuts for use in Tropy. More specific shortcuts are identified in the section of the documentation they pertain to.
 

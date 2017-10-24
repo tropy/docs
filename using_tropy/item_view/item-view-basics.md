@@ -1,4 +1,4 @@
-## Getting Started in Item View
+## Getting started in item view
 
 Item view is where you can focus on the content of your items. You can edit metadata, tag items, and take notes on or transcribe your item.
 

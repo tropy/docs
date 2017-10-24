@@ -1,4 +1,4 @@
-## Creating a new template
+## Create a new template
 
 There are several steps to creating a new template. Before you begin, you may want to review our [documentation on metadata](/beginning/metadata.md).
 

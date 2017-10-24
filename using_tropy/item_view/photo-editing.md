@@ -1,4 +1,4 @@
-## Edit photos in an item.
+## Edit photos in an item
 
 Tropy allows you to do basic photo editing. You can do all your photo editing using the toolbar at the top of the photo pane in Item view.
 
