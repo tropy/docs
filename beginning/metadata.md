@@ -133,7 +133,7 @@ _Property used_: dc/elements/1.1/rights
 
 ### Tropy Correspondence
 
-Incorporating elements from the Tropy Generic template, this template is intended specifically for correspondence, a widely used source. Additional fields can be added to customize the template to include characteristics of specific collections.At present you can only use each property once in a template. Most of the Tropy Correspondence fields appear in the Tropy Generic template as well. We’ve highlighted here the fields that have been added to or modified in Tropy Correspondence.
+Incorporating elements from the Tropy Generic template, this template is intended specifically for correspondence, a widely used type of source. Additional fields can be added to customize the template to include characteristics of specific collections.At present you can only use each property once in a template. Most of the Tropy Correspondence fields appear in the Tropy Generic template as well. We’ve highlighted here the fields that have been added to or modified in Tropy Correspondence.
 
 #### Type
 
@@ -141,7 +141,7 @@ _Type_ is the type or genre of source. Although this template is designed for on
 
 _Property used_: purl.org/dc/elements/1.1/type
 
-Since this template is designed for one specific type of source, you could modify this template to include that type, “correspondence,” as a default value in this field, which means you would not have to enter the information for each item or group of items.
+Since this template is designed for one specific type of source, this template includes that type, “correspondence,” as a default value in this field, which means you do not have to enter the information for each item or group of items. You can edit this field to have a more specific value, such as "circular" or "letter excerpt."
 
 #### Recipient
 
@@ -163,7 +163,7 @@ _Label_: This template replaces _coverage_ with the more specific term _location
 
 ## **Tags**
 
-A tag is a freely chosen keyword or phrase; it can be as idiosyncratic as you want. It can refer to any feature of a source, rather than a specific category, as in the structured metadata of a Tropy template. You can add as many tags as you want to an item.
+A tag is a freely chosen keyword or phrase; it can be as idiosyncratic as you want. It can refer to any feature of a source, rather than a specific category, as in the structured metadata of a Tropy template. You can [add as many tags](//using_tropy/project_view/tags.md) as you want to an item.
 
 Essentially, there is no such thing as a bad tag; if it’s useful to you, it’s a good tag. However, when you create tags, you need to take care not to use homonyms\(the same tags used with different meanings\) and synonyms \(multiple tags for the same concept\), which can lead to ineffective organization of your material \(e.g., the tag “orange” could refer to the color or the fruit\). Likewise, being careful to use only singular or plural will help produce useful tags.
 
