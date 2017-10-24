@@ -41,10 +41,9 @@
 
 * [Export from Tropy](export.md)
 * [Keyboard shortcuts in Tropy](/keyboard-shortcuts.md)
+* [Preferences](preferencesmd.md)
 
 ## Troubleshooting
 
 * [Forums](forums.md)
-
-
 
