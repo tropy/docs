@@ -34,3 +34,9 @@ In the sidebar, right-click on a tag and select _Delete tag. _
 
 Once you have created a tag, you can assign it a color. In the tag list in the sidebar, right-click on the tag name and navigate to Change Color. If you assign a color to a tag, items with that tag will receive a small colored circle in grid view so that you can easily see which items have colored tags.
 
+## View tagged items
+
+To view tagged items, click on the tag name in the sidebar. The items with that tag will appear in the item table. Note that if you have a list selected, only items within that list will appear in the tagged-items results.
+
+
+
