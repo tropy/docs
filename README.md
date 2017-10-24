@@ -31,7 +31,7 @@ To use Tropy, you need to download a copy of the software from the Download page
 
 ### Watch this quick overview of Tropy's functions.
 
-<div class="video-responsive">
+<p class="video-responsive">
   <iframe src="https://player.vimeo.com/video/239557418" width="770" height="433" frameborder="0"></iframe>
-</div>
+</p>
 
