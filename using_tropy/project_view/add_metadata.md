@@ -22,7 +22,7 @@ You can edit the metadata for multiple items at a time.
 
 ### Photo Metadata from Camera
 
-Digital cameras store information about images they capture in the header of the digital file, using the EXIF standard. That information usually includes the camera make and models, the camera settings and the date the photograph was taken.
+Digital cameras store information about images they capture in the header of the digital file, using the Exif standard. That information usually includes the camera make and models, the camera settings and the date the photograph was taken.
 
 Tropy imports some of that photo metadata and displays it underneath the item metadata.
 

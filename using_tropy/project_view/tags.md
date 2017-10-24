@@ -1,12 +1,12 @@
 ## Using Tags
 
-Tags are useful for delineating subjects, organization, content highlights, and many other uses. To maximize your tags' usefulness, you should check the tag list before creating a new tag to make sure you don't already have that tag \(with a different capitalization or part of speech, for instance\). 
+Tags are useful for delineating subjects, organization, content highlights, and many other uses. To maximize your tags' usefulness, you should check the tag list before creating a new tag to make sure you don't already have that tag \(with a different capitalization or part of speech, for instance\).
 
 ### Create a new tag.
 
 To add tags to an item, click to the tags tab of the metadata pane. Select _Add Tag_, then type your new tag name. Press Enter to save your tag. That tag now appears in the tag list in the sidebar, as well as in the tags tab of the metadata pane.
 
-You can also add a new tag to a group of items. Ctrl/Command+click to select the items, and then click on the tags tab of the metadata pane. Select _Add Tag_, then type your new tag name. Press Enter to save your tag. The tag is now applied to all the items you have selected.
+You can also add a new tag to a group of items. Ctrl/Command+click or Shift+click to select the items, and then click on the tags tab of the metadata pane. Select _Add Tag_, then type your new tag name. Press Enter to save your tag. The tag is now applied to all the items you have selected.
 
 To access all of your items tagged with a particular tag, click on the tag name in the sidebar.
 
@@ -18,11 +18,11 @@ You have two options for adding a tag that already exists. You can either \(1\) 
 
 You have two options for renaming a tag.
 
-1. In the tag list in the  left menu Ctrl/Command+click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in all the items to which it has been applied.
+1. In the tag list in the  left menu, right-click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in all the items to which it has been applied.
 
-2. In the Tags tab of the metadata pane, Ctrl/Command+click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in the tags list in the left menu and in all the items to which it has been applied.
+2. In the Tags tab of the metadata pane, right-click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in the tags list in the left menu and in all the items to which it has been applied.
 
-### R**emove a tag.** 
+### R**emove a tag.**
 
 In the tags tab of the metadata pane, click on a tag to select it and then press Backspace to remove a tag from an item.
 
