@@ -2,7 +2,7 @@
 
 As you work with archival materials, it is important for you to remember that the owner of the materials may have legal rights to restrict your use or publication of them. Finding copyrighted materials in an archive doesn’t mean you can’t read those materials and cite them in your work. Copyright law allows archives and libraries to provide copies for use in private study, scholarship or research. However, you would need to get permission of the copyright owner before publishing your digital photos of that material. Putting material on a publicly accessible website constitutes publication.
 
-Many archives have rights statements that you have to read, acknowledge, and sign before you see any materials. Rights statements can be commonly be found in finding aids and in online catalogs. You should ensure that you include and record rights information as part of the metadata for items in Tropy. The default templates in Tropy include rights as a mandatory field, so that an alert appears until you complete that material. We recommend that you include a URL to the relevant information in your rights metadata, if one is available \(see, for instance, [this page](https://www.masshist.org/library/permissions/citations) from the Massachusetts Historical Society\).
+Many archives have rights statements that you have to read, acknowledge, and sign before you see any materials. Rights statements can commonly be found in finding aids and in online catalogs. You should ensure that you include and record rights information as part of the metadata for items in Tropy. The default templates in Tropy include rights as a mandatory field, so that an alert appears until you complete that material. We recommend that you include a URL to the relevant information in your rights metadata, if one is available \(see, for instance, [this page](https://www.masshist.org/library/permissions/citations) from the Massachusetts Historical Society\).
 
 Unfortunately, there is considerable variation in the form and contents of the rights information provided by archives and libraries, and it is not always clear who owns the rights to material. Archives do not automatically own the copyright of material in their holdings. Donors or sellers can retain the rights for material, or they may not own the copyright of all the items they transfer to an archive. For example, a donor may not own the copyright to letters written to them, or they may have transferred the rights to someone else, such as a publisher \(see [SAA, FAQs](https://www2.archivists.org/publications/brochures/copyright-and-unpublished-material)\).
 
@@ -10,7 +10,7 @@ Material in archives may also not be under copyright, a status referred to as be
 
 ### Material not protected by copyright law and always in the public domain
 
-* U.S. federal government documents \(produced by or for government agencies\); Note that only some state government documents are in the public domain
+* U.S. federal government documents \(produced by or for government agencies\); note that only some state government documents are in the public domain
 * Laws and legal codes
 * Works whose owners waive their copyright by using the [Creative Commons 0](https://creativecommons.org/share-your-work/public-domain/cc0/) dedication
 
