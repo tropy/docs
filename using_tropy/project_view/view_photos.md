@@ -1,4 +1,4 @@
-## View photos.
+## View photos
 
 Tropy has two views for working with your items. The project view appears by default when you open Tropy. It lists all of your items, allowing you to see your work in broad terms and edit or tag in bulk. The item view allows you to focus on one particular item, giving you a place to add notes or transcription. Both views allow you to edit metadata and tags.
 

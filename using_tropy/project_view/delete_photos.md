@@ -1,4 +1,4 @@
-## Deleting items
+## Delete items
 
 You can delete items in two ways.
 
