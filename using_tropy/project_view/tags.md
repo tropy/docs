@@ -1,6 +1,6 @@
 ## Use tags
 
-Tags are useful for delineating subjects, organization, content highlights, and many other uses. To maximize your tags' usefulness, you should check the tag list before creating a new tag to make sure you don't already have that tag \(with a different capitalization or part of speech, for instance\).
+Tags are useful for delineating subjects, organization, content highlights, and many other uses. To maximize your tags' usefulness, you should check the tag list before creating a new tag to make sure you don't already have that tag \(with a different capitalization or part of speech, for instance\). You may also want to consult [What is metadata and how do I use it?](//beginning/metadata.md) for further information.
 
 ### Create a new tag.
 
