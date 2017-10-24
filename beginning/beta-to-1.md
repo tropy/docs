@@ -1,4 +1,4 @@
-## Transitioning from Beta to 1.0
+## Transitioning from beta to 1.0
 
 If you have been using the beta version of Tropy, your projects and photos should migrate into Tropy 1.0 with no problems. However, there are a few steps you should take in order to retain all the work you've done in the beta.
 
@@ -10,6 +10,4 @@ If you have been using the beta version of Tropy, your projects and photos shoul
 * Select all your items, right-click, and select _Consolidate selected items_. This will tell the 1.0 version where your original photos are.
 
 And you're ready to work with the 1.0 version!
-
-
 

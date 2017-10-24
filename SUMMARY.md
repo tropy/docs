@@ -32,6 +32,7 @@
 
 ## In the template editor
 
+* [Getting started with templates](/using_tropy/templates/using-templates.md)
 * [Create a new template.](/using_tropy/templates/create-template.md)
 * [Edit a template.](/using_tropy/templates/edit-templates.md)
 * [Export and import templates.](/using_tropy/templates/export-import-templates.md)
