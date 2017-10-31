@@ -7,7 +7,7 @@ If you have been using the beta version of Tropy, your projects and photos shoul
 * Download and install the 1.0 version.
 * Import your custom templates and vocabularies into the 1.0 version. \(You'll have to create an empty project in order to access the templates.\)
 * Open your project file from the beta. If you have imported your custom templates, your items should appear with the proper template.
-* Select all your items, right-click, and select _Consolidate selected items_. This will tell the 1.0 version where your original photos are.
+* From the File menu, select _Consolidate Photo Library_. This will tell the 1.0 version where your original photos are.
 
 And you're ready to work with the 1.0 version!
 
