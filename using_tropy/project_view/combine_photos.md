@@ -29,9 +29,23 @@ Additional metadata: If a metadata field is filled out in one item but is not fi
 
 All merge operations can be undone. You can undo from the top menu, under _Edit_, or by right-clicking on an item and selecting _Undo_ from the menu.
 
-### Exploding an item
+### Explode an item.
 
 You may realize at some point that you have erroneously merged items that should be separate. If you realize it immediately, you can undo by right-clicking and selecting Undo. If you have performed other tasks in Tropy before you realize your error, you should use the Explode function instead.
 
 Right-click on the item you have erroneously merged and select _Explode Item_. When you do this, each photo in your item becomes a separate item, but each new item retains the metadata that existed in the combined item before explosion. Exploding an item does not restore metadata to an item from before it was merged. From there, you can treat each new item just as a regular item, re-merging or editing the metadata on each item.
+
+### Duplicate a photo.
+
+You may find that you have a photo that should appear in two different items. For instance, in a letterbook, the end of a letter may appear on the same page as the beginning of the next one. Tropy allows you to duplicate a photo so it can appear in multiple items. 
+
+To duplicate, right-click on the photo in the Photos pane. Select _Duplicate Photo_. This action creates an exact copy of the photo within its current item, with all the same metadata. 
+
+![](/assets/duplicates.png)
+
+To move the duplicated photo to its own item, right-click on the photo and select _Move Photo to New Item. _When you do that, the duplicated photo will appear in the item table as its own item, which you can then edit to reflect its separate metadata.
+
+To move the duplicated photo to an existing item, drag the photo from the Photos pane onto the item in the item table that you want to add it to.
+
+
 
