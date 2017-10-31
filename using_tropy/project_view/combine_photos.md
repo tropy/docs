@@ -43,7 +43,7 @@ To duplicate, right-click on the photo in the Photos pane. Select _Duplicate Pho
 
 ![](/assets/duplicates.png)
 
-To move the duplicated photo to its own item, right-click on the photo and select _Move Photo to New Item. _When you do that, the duplicated photo will appear in the item table as its own item, which you can then edit to reflect its separate metadata.
+To move the duplicated photo to its own item, right-click on the photo and select _Move Photo to New Item_. When you do that, the duplicated photo will appear in the item table as its own item, which you can then edit to reflect its separate metadata.
 
 To move the duplicated photo to an existing item, drag the photo from the Photos pane onto the item in the item table that you want to add it to.
 
