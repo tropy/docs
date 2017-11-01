@@ -18,3 +18,8 @@ You may want to add an item that does not yet have any photos attached to it. To
 
 **Troubleshooting**: When you import photos into Tropy, make sure the search box is clear; otherwise it will seem like your photos are not importing.
 
+### Consolidate your photo library.
+If you make changes to the originals of your photos, you will need to tell Tropy that you've made changes. (For instance, perhaps you cropped or changed the contrast on a photo outside Tropy.) This process is called consolidation.
+
+To consolidate, navigate to *File* > *Consolidate Photo Library*. You don't need to do anything else; this command lets Tropy recreate any thumbnails that are missing or have been changed. 
+
