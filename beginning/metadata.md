@@ -69,6 +69,10 @@ In order to effectively organize and find sources based on date, use a consisten
 
 _Property used_: purl.org/dc/elements/1.1/date
 
+If you use ISO format, your date will automatically reformat to be more easily readable.
+
+To indicate an uncertain date, use ~ before or the date (e.g., ~1802, or ~1802-01-01; 1802~ or 1802-01-01~ to indicate uncertainty about the day). Your date will reformat to include "c." This feature is still evolving and more complex date format support is planned.
+
 _Note_: You may want to describe a source in terms of dates in addition to when it was created, such as the date or dates referred to in the source, or dates when a source was modified or edited. In these cases, there are additional metadata properties that you can use to add additional date fields to your template, such aspurl.org/dc/elements/1.1/coverage,purl.org/dc/terms/created, orpurl.org/dc/terms/modified.
 
 #### Type
