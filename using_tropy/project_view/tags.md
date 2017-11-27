@@ -10,11 +10,13 @@ You can also add a new tag to a group of items. Ctrl/Command+click or Shift+clic
 
 To access all of your items tagged with a particular tag, click on the tag name in the sidebar.
 
-### A**dd a tag that already exists.**
+### Add a tag that already exists.
 
 You have two options for adding a tag that already exists. You can either \(1\) drag and drop your item onto the tag in the sidebar; or \(2\) right-click on the item, then move to _Tags_ and select the tag you wish to apply. You can also add tags in bulk, by selecting multiple items and then either dragging and dropping or selecting a tag from the right-click menu.
 
-### Re**name an existing tag.**
+In the tags tab of the metadata pane, you can also click *Add Tag to Item*, and then starting typing a tag, and you will see suggestions of existing tags to autocomplete.
+
+### Rename an existing tag.
 
 You have two options for renaming a tag.
 
@@ -22,13 +24,13 @@ You have two options for renaming a tag.
 
 2. In the Tags tab of the metadata pane, right-click on the tag, and select _Rename tag._ Enter the new tag name and hit return. The tag will be renamed in the tags list in the left menu and in all the items to which it has been applied.
 
-### R**emove a tag.**
+### Remove a tag.
 
 In the tags tab of the metadata pane, click on a tag to select it and then press Backspace to remove a tag from an item.
 
-### D**elete a tag completely.**
+### Delete a tag completely.
 
-In the sidebar, right-click on a tag and select _Delete tag. _
+In the sidebar, right-click on a tag and select _Delete tag._
 
 ### Assign your tag a color.
 
