@@ -46,4 +46,5 @@
 ## Troubleshooting
 
 * [Forums](forums.md)
+* [Backup](backup.md)
 
