@@ -23,3 +23,7 @@ If you make changes to the originals of your photos, you will need to tell Tropy
 
 To consolidate, navigate to *File* > *Consolidate Photo Library*. You don't need to do anything else; this command lets Tropy recreate any thumbnails that are missing or have been changed. 
 
+### Find your photos again if you move a folder.
+If you change the location where your photos are stored, you'll need to tell Tropy where the new location is. This involves some complicated work, so be sure to make a backup of your project file before beginning.
+
+See [this forum post](https://forums.tropy.org/t/photo-does-not-open-in-item-view/363/) for instructions on how to change your photos' location in Tropy.
