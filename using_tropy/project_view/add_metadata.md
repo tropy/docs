@@ -12,7 +12,7 @@ To add or edit metadata to describe your item, click on it to select it. In the 
 
 3. Double-clicking on your item in the item table will bring you to the item view, where you can also edit the metadata, now in the lefthand pane.
 
-### Editing Metadata in Bulk
+### Editing metadata in bulk
 
 You can edit the metadata for multiple items at a time.
 
@@ -20,7 +20,7 @@ You can edit the metadata for multiple items at a time.
 * To select a large group, press Shift, then select the last item of the group you want to select. The metadata you input will be applied to all items you have selected.
 * To select everything in the item table, press Ctrl/Command+A. 
 
-### Photo Metadata from Camera
+### Photo metadata from camera
 
 Digital cameras store information about images they capture in the header of the digital file, using the Exif standard. That information usually includes the camera make and models, the camera settings and the date the photograph was taken.
 
