@@ -8,9 +8,9 @@ To export from Tropy, right-click on an item in the item table. From the right-c
 
 At present, Tropy only exports metadata to JSON-LD, not associated photos. Your photos still exist outside Tropy as well, since importing in Tropy copies your photos.
 
-### [To Omeka S](/omeka.md)
+### To Omeka S {#omeka}
 
-Export to Omeka S occurs through the Omeka plugin. In order to use it, you will need an existing Omeka S installation and access to the API information. 
+Export to Omeka S occurs through the Omeka plugin. In order to use it, you will need an existing Omeka S installation and access to the API information.
 
 #### 
 

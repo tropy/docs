@@ -41,6 +41,7 @@
 ## Other features
 
 * [Export from Tropy](export.md)
+* [Export to Omeka S](/omeka.md)
 * [Keyboard shortcuts in Tropy](/keyboard-shortcuts.md)
 * [Preferences](preferencesmd.md)
 
