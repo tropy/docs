@@ -17,7 +17,7 @@ Installing the Omeka S plugin is a multi-step process.
 ### **Part 3: In the Configuration File**
 
 1. In Tropy, navigate to _Help_ and click on _Install plugin._ When the dialog box opens, navigate to where you saved your file from the GitHub repository. Click _Open._
-2. Once you have done that \(it will look like nothing happened\), navigate back to _Help \_and click on \_Show Plugins Folder. _
+2. Once you have done that \(it will look like nothing happened\), navigate back to _Help _and click on _Show Plugins Folder. _
 3. The _plugins_ folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
 4. Copy and paste this text into the file. You can delete the brackets that are there when you open the file.
 
