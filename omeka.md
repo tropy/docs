@@ -25,7 +25,8 @@ Installing the Omeka S plugin is a multi-step process.
 3. The <em>plugins</em> folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
 4. Copy and paste this text into the file. You can delete the brackets that are there when you open the file.
 
-```[{
+```
+[{
   "plugin": "tropy-omeka",
   "name": "Omeka",
   "options": {
