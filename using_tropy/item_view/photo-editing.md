@@ -18,4 +18,7 @@ From left to right, the buttons are as follows:
 
 You can also adjust various settings on your photos to make them more legible. To access the advanced photo editing tools, click on the button on the far right of the photo editing panel.
 
+**Caution**: The <em>Revert to Original</em> button will reset all your photo-editing settings, including rotation and mirroring, not just the sliders.
+
 ![](/assets/photo-editing.png)
+
