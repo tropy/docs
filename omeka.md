@@ -71,7 +71,7 @@ If you imported custom vocabularies into Tropy, you'll need to import them into 
 
 #### Rebuilding Templates
 
-Items are exported from Tropy along with their custom templates. Provided that you have imported all the proper vocabularies, your item should show up in Omeka with all the expected fields. Custom labels, however, do not transfer. In order to retain your custom labels in Omeka, you'll have to make a resource template that reflects your custom template labels. You can then apply your resource template to your items individually or in bulk.
+Items are exported from Tropy along with their custom templates. Provided that you have imported all the proper vocabularies, your item should show up in Omeka with all the expected fields. Custom labels, however, do not transfer. In order to retain your custom labels in Omeka, you'll have to make a [resource template](https://omeka.org/s/docs/user-manual/content/resource-template/) that reflects your custom template labels. You can then apply your resource template to your items individually or in bulk.
 
 * To make a resource template, go to your Omeka site's admin page. In the lefthand menu, click on <em>Resource templates.</em> Then click on <em>Add new resource template</em> in the top right.
 * Just as in Tropy, you'll need to give your template a name. \(If it makes sense, you might want to name it the same thing as your Tropy template.\)
