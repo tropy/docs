@@ -16,4 +16,6 @@ From left to right, the buttons are as follows:
 8. Zoom slider: You can also manually zoom in or out on your photo.
 
 
+You can also adjust various settings on your photos to make them more legible. To access the advanced photo editing tools, click on the button on the far right of the photo editing panel.
 
+![](/assets/photo-editing.png)
