@@ -13,7 +13,7 @@ Installing the Omeka S plugin is a multi-step process.
 
 ### **Part 2: In Omeka S**
 
-1. Navigate to your Omeka's admin panel and click on _Users_. In the list of users, each name has a pencil next to it. Click on the pencil to open the user profile.
+1. Navigate to your Omeka's admin panel and click on _Users_. In the list of users, each name has a pencil next to it. Click on the pencil to open the user profile. Read more about how to add or edit users [here](https://omeka.org/s/docs/user-manual/admin/users/).
 2. In the user profile, click on _API keys. _
 3. You now need to add a new key. Type a name into the _New key label_ field and hit _Enter._
 4. You should get a box that generates a _key\_identity_ and a _key\_credential. Do not close this browser page until you have finished the process of installing and configuring the Tropy plugin._![](/assets/api-key)
