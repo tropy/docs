@@ -20,9 +20,9 @@ Installing the Omeka S plugin is a multi-step process.
 
 ### **Part 3: In the Configuration File**
 
-1. In Tropy, navigate to _Help_ and click on _Install plugin._ When the dialog box opens, navigate to where you saved your file from the GitHub repository. Click _Open._
-2. Once you have done that \(it will look like nothing happened\), navigate back to _Help \_and click on \_Show Plugins Folder. _
-3. The _plugins_ folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
+1. In Tropy, navigate to _Help_ and click on _Install plugin._ When the dialog box opens, navigate to where you saved your file from the GitHub repository. Click <em>Open</em>.
+2. Once you have done that \(it will look like nothing happened\), navigate back to Help and click on <em>Show Plugins Folder.</em>
+3. The <em>plugins</em> folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
 4. Copy and paste this text into the file. You can delete the brackets that are there when you open the file.
 
 `[{`
@@ -73,12 +73,12 @@ If you imported custom vocabularies into Tropy, you'll need to import them into 
 
 Items are exported from Tropy along with their custom templates. Provided that you have imported all the proper vocabularies, your item should show up in Omeka with all the expected fields. Custom labels, however, do not transfer. In order to retain your custom labels in Omeka, you'll have to make a resource template that reflects your custom template labels. You can then apply your resource template to your items individually or in bulk.
 
-* To make a resource template, go to your Omeka site's admin page. In the lefthand menu, click on _Resource templates. _Then click on _Add new resource template _in the top right.
+* To make a resource template, go to your Omeka site's admin page. In the lefthand menu, click on <em>Resource templates.</em> Then click on <em>Add new resource template</em> in the top right.
 * Just as in Tropy, you'll need to give your template a name. \(If it makes sense, you might want to name it the same thing as your Tropy template.\)
-* Then build your template using the same fields as your Tropy template. You can find your properties quickly by typing them into the _Filter properties _box on the righthand side. Make sure they are identical to the ones you've used in your Tropy template.
-* Once you've compiled all your fields, you can edit the labels by clicking on the pencil next to each field. Add your custom label in the _Alternate_ title box. Make sure you click _Set changes _once you've added your custom label.
-* When you've changed all your custom labels, click _Add_ in the top right to add your resource template to your Omeka resources.
-* To apply your custom resource template to your items, return to the item list. Then click on the pencil next to an item to edit it. Set your resource template and then click _Save. _You can also do this action in bulk by using the _Batch actions _button at the top.
+* Then build your template using the same fields as your Tropy template. You can find your properties quickly by typing them into the <em>Filter properties</em> box on the righthand side. Make sure they are identical to the ones you've used in your Tropy template.
+* Once you've compiled all your fields, you can edit the labels by clicking on the pencil next to each field. Add your custom label in the <em>Alternate</em> title box. Make sure you click <em>Set changes</em> once you've added your custom label.
+* When you've changed all your custom labels, click <em>Add</em> in the top right to add your resource template to your Omeka resources.
+* To apply your custom resource template to your items, return to the item list. Then click on the pencil next to an item to edit it. Set your resource template and then click <em>Save.</em> You can also do this action in bulk by using the <em>Batch actions</em> button at the top.
 
 
 
