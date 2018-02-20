@@ -23,6 +23,19 @@
   border: 1px solid #e8e8e8;
 }
 
+.book-summary ul.summary li {
+  line-height: 1.5; /* Enlarge line height for multi-line items */
+}
+
+.book-summary ul.summary li.header {
+  padding: 15px 15px 5px; /* Reduce spacing between items */
+}
+
+.book-summary ul.summary li a {
+  padding: 5px 15px; /* Reduce spacing between items */
+}
+
+/* Wrap lines instead of truncation */
 .book-summary ul.summary li a,
 .book-summary ul.summary li span {
   white-space: normal;
