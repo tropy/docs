@@ -28,11 +28,11 @@ Tropy items can have as many notes as you want. To add a new note, click the + o
 
 ### Multiple modes of writing
 
-Tropy allows you to write both horizontally \(left to right\) and vertically. To switch to vertical mode, type in the notes field and then right-click in the notes field. From the context menu that appears, navigate to _Writing Mode_ &gt; _Vertical. _You can have only one writing mode per note, so you'll need to create multiple notes in order to take notes in multiple modes about the same photo.
+Tropy allows you to write both horizontally \(left to right\) and vertically. To switch to vertical mode, type in the notes field and then right-click in the notes field. From the context menu that appears, navigate to <em>Writing Mode</em> &gt;<em>Vertical.</em> You can have only one writing mode per note, so you'll need to create multiple notes in order to take notes in multiple modes about the same photo.
 
 ### Line numbers and line wrap
 
-You can turn on line numbers in your note by typing in the notes field, then right-clicking. From the context menu that appears, click on _Show Line Numbers. _Line wrap is on by default; to turn it off, click on _Wrap Lines._
+You can turn on line numbers in your note by typing in the notes field, then right-clicking. From the context menu that appears, click on <em>Show Line Numbers.</em> Line wrap is on by default; to turn it off, click on <em>Wrap Lines.</em>
 
 
 
