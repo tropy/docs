@@ -16,7 +16,10 @@ From left to right, the buttons are as follows:
 8. Zoom slider: You can also manually zoom in or out on your photo.
 
 
+### Advanced photo editing
 You can also adjust various settings on your photos to make them more legible. To access the advanced photo editing tools, click on the button on the far right of the photo editing panel.
+
+The <em>Invert colors</em> checkbox allows you to reverse the colors in a negative, such as microfilm. 
 
 **Caution**: The <em>Revert to Original</em> button will reset all your photo-editing settings, including rotation and mirroring, not just the sliders.
 
