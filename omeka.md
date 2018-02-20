@@ -25,27 +25,17 @@ Installing the Omeka S plugin is a multi-step process.
 3. The <em>plugins</em> folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
 4. Copy and paste this text into the file. You can delete the brackets that are there when you open the file.
 
-`[{`
-
-`"plugin": "tropy-omeka",`
-
-`"name": "Omeka",`
-
-`"options": {`
-
-`"api": {`
-
-`"url": "http://<omeka_url>/api",`
-
-`"key_identity": "<your_identity>",`
-
-`"key_credential": "<your_credential>"`
-
-`}`
-
-`}`
-
-`}]`
+```[{
+  "plugin": "tropy-omeka",
+  "name": "Omeka",
+  "options": {
+    "api": {
+    "url": "http://<omeka_url>/api",
+    "key_identity": "<your_identity>",
+    "key_credential": "<your_credential>"
+  }
+}]
+```
 
 In the config file, you'll need to fill in a few pieces of information that you can get from your Omeka S installation. Every part of the file where you see carets \(&lt;&gt;\) is a piece of information you need to fill in \(remove the carets when you copy your own information in, but leave the quotation marks\).
 
