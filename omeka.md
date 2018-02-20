@@ -47,7 +47,7 @@ Installing the Omeka S plugin is a multi-step process.
 
 `}]`
 
-In the config file, you'll need to fill in a few pieces of information that you can get from your Omeka S installation. Every part of the file where you see carets \(&lt;&gt;\) is a piece of information you need to fill in \(remove the carets when you copy your own information in, but leave the quotation marks\).
+In the config file, you'll need to fill in a few pieces of information that you can get from your Omeka S installation. Every part of the file where you see angle brackets \(&lt;&gt;\) is a piece of information you need to fill in \(remove the brackets when you copy your own information in, but leave the quotation marks\).
 
 * url: The URL of your Omeka site.
 * key\_identity: Copy and paste from the Omeka users page.
