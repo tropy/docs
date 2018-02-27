@@ -49,7 +49,7 @@ _Title_ is the name of the source. Documents such as books, pamphlets, and even 
 
 A descriptive title might repeat some of the information that you include in other categories in the template \(like author, type of document, subject of the document\) but including it here gives you a brief picture of the source in one place. Such a summary description would be useful in Tropy in allowing you to quickly identify the nature of a source when scrolling through your material in project view.
 
-_Property used_: purl.org/dc/elements/1.1/title
+_Property used_: `purl.org/dc/elements/1.1/title`
 
 #### Author
 
@@ -57,7 +57,7 @@ _Author_ is the individual or organization responsible for creating a source.
 
 In order to effectively organize and find sources based on names, best practice suggests the following format: Last Name, First Name, Middle Initial.
 
-_Property used:_ purl.org/dc/elements/1.1/creator
+_Property used:_ `purl.org/dc/elements/1.1/creator`
 
 _Label_: The Dublin Core metadata standard was designed to be core categories applicable to a wide range of resources, so it uses _creator_ rather than more specific forms such as author, filmmaker, sculptor, etc. This template replaces “creator” with “author” to reflect the specific form of the documents to which it will be applied. You could also re-label the field to “artist,” “architect,” or whatever type of creator you are working with.
 
@@ -67,13 +67,13 @@ _Date_ is the date a source was created. If you are unsure of the exact date, it
 
 In order to effectively organize and find sources based on date, use a consistent date format like YYYY-MM-DD \(known as ISO format\).
 
-_Property used_: purl.org/dc/elements/1.1/date
+_Property used_: `purl.org/dc/elements/1.1/date`
 
 If you use ISO format, your date will automatically reformat to be more easily readable.
 
 To indicate an uncertain date, use ~ before or the date (e.g., ~1802, or ~1802-01-01; 1802~ or 1802-01-01~ to indicate uncertainty about the day). Your date will reformat to include "c." This feature is still evolving and more complex date format support is planned.
 
-_Note_: You may want to describe a source in terms of dates in addition to when it was created, such as the date or dates referred to in the source, or dates when a source was modified or edited. In these cases, there are additional metadata properties that you can use to add additional date fields to your template, such aspurl.org/dc/elements/1.1/coverage,purl.org/dc/terms/created, orpurl.org/dc/terms/modified.
+_Note_: You may want to describe a source in terms of dates in addition to when it was created, such as the date or dates referred to in the source, or dates when a source was modified or edited. In these cases, there are additional metadata properties that you can use to add additional date fields to your template, such as `purl.org/dc/elements/1.1/coverage`, `purl.org/dc/terms/created`, or `purl.org/dc/terms/modified`.
 
 #### Type
 
@@ -81,13 +81,13 @@ _Type_ is the type or genre of source. This could be a type of document \(e.g., 
 
 In order to effectively organize and finds sources based on type, use consistent terms or a controlled vocabulary. [The Dublin Core Metadata Initiative Type Vocabulary](http://dublincore.org/documents/2003/02/12/dcmi-type-vocabulary/) and [Getty Art and Architecture Thesaurus](http://www.getty.edu/research/tools/vocabularies/aat/) are good resources.
 
-_Property used_: purl.org/dc/elements/1.1/type
+_Property used_: `purl.org/dc/elements/1.1/type`
 
 #### Archive
 
 _Archive_ is the location at which the source can be found, e.g., the Library of Congress.
 
-_Property used_: purl.org/dc/elements/1.1/source
+_Property used_: `purl.org/dc/elements/1.1/source`
 
 You could copy and modify this template to create a template for a specific archive. If you added a default value in this field, you would not have to enter the information for each item or group of items.
 
