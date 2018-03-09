@@ -1,6 +1,6 @@
 ## Export from Tropy
 
-Tropy items can be exported as [JSON-LD](https://json-ld.org/), as well as to Omeka S.
+Tropy items can be exported as [JSON-LD](https://json-ld.org/), as well as to [Omeka S](http://omeka.org/s/).
 
 ### To JSON-LD
 
@@ -11,8 +11,3 @@ At present, Tropy only exports metadata to JSON-LD, not associated photos. Your 
 ### [To Omeka S](//omeka.md) {#omeka}
 
 Export to Omeka S occurs through the Omeka plugin. In order to use it, you will need an existing Omeka S installation and access to the API information.
-
-#### 
-
-
-
