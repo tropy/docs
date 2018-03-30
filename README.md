@@ -11,7 +11,7 @@ Tropy is free, open-source software that allows you to organize and describe pho
 * Tropy is not photo editing software \(e.g., Photoshop\). It offers only basic editing functions \(rotate, crop, zoom\) sufficient to allow you to make the content of a photo legible. 
 * Tropy is not a citation manager \(e.g., Zotero\). It does not capture metadata from online catalogs or finding aids. It does not generate citations for use in word-processing software.
 * Tropy is not a platform for writing up your research \(e.g., DEVONthink\). While it does allow you to take notes attached to photos, you cannot use it to create any other kind of document.
-* Tropy is not a platform for presenting your research online \(e.g., Omeka\). It operates on your personal computer, not on a server. You can export your projects to JSON-LD.
+* Tropy is not a platform for presenting your research online \(e.g., Omeka\). It operates on your personal computer, not on a server. You can export your projects to JSON-LD and to [Omeka S](https://omeka.org/s/), where you can create online exhibits.
 
 # Preparing to use Tropy {#prepare}
 
