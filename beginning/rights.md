@@ -8,7 +8,9 @@ Unfortunately, there is considerable variation in the form and contents of the r
 
 Material in archives may also not be under copyright, a status referred to as being in the public domain, which means it can be used freely without permission or attribution. Copyright cannot be claimed over digital images of public domain material; you need to alter the work to be able to claim copyright. However, your use of digitized public domain material can be restricted by terms of use, such as those you agree to in order to use subscription-based databases such as ProQuest products or Ancestry.com.
 
-### Material not protected by copyright law and always in the public domain
+### Material not protected by U.S. copyright law and always in the public domain
+
+**Please note:** These lists apply only to U.S. copyright status. If you live or work in another country or are using material published in another country, you should check that country's copyright policies.
 
 * U.S. federal government documents \(produced by or for government agencies\); note that only some state government documents are in the public domain
 * Laws and legal codes
