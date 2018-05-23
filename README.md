@@ -34,6 +34,7 @@ Tropy also does not work with any non-image format files such as PDF. There are 
 
 To use Tropy, you need to download a copy of the software from the Download page at [tropy.org](https://tropy.org/). Tropy is free software; there is no cost to download or use it. Tropy is available for macOS, Windows, and Linux. Choose the version for your operating system; once Tropy has downloaded, open it and follow the prompts to install it on your computer.
 
+
 ### Watch this quick overview of Tropy's functions.
 
 <p class="video-responsive">
