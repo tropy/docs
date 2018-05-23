@@ -18,33 +18,17 @@ Installing the Omeka S plugin is a multi-step process.
 3. You now need to add a new key. Type a name into the <em>New key label</em> field and hit <em>Enter.</em>
 4. You should get a box that generates a <em>key\_identity</em> and a <em>key\_credential</em>. **Do not close this browser page until you have finished the process of installing and configuring the Tropy plugin.**![](/assets/api-key)
 
-### **Part 3: In the Configuration File**
+### **Part 3: In the Plugins Pane**
+1. Open Tropy and navigate to Preferences in the top menu. 
+2. In Preferences, click on Plugins. At the bottom of the Plugins pane, click on _Install Plugin_. Navigate to wherever you saved the plugin file from the GitHub repository; select it and click _Open._
+3. Now your Omeka plugin should appear in the Plugins pane. Click on _Enable_ to continue setup.
+4. In the form that opens when you enable the plugin, you now have to fill in all the fields in order for your plugin to work properly.
+<blockquote> Name: You can name your instance of the Omeka plugin anything you like. We recommend that you give it the same name as your Omeka site.</blockquote>
+<blockquote>API URL: Copy and paste the URL of your Omeka site between the < > (removing the angle brackets). The URL you paste in will always end in "omeka-s".</blockquote>
+<blockquote>Identity key and credential key: These two fields come from the page you should still have open in your Omeka installation. Copy and paste them into the appropriate fields.</blockquote>
 
-1. In Tropy, navigate to _Help_ and click on _Install plugin._ When the dialog box opens, navigate to where you saved your file from the GitHub repository. Click <em>Open</em>.
-2. Once you have done that \(it will look like nothing happened\), navigate back to Help and click on <em>Show Plugins Folder.</em>
-3. The <em>plugins</em> folder contains a configuration file \(config.json\). Open that file in the text editor of your choice \(e.g., Notepad, Atom, TextWrangler\).
-4. Copy and paste this text into the file. You can delete the brackets that are there when you open the file.
+Once you've filled in these fields, you're all set---you can now close the Preferences window.
 
-```
-[{
-  "plugin": "tropy-omeka",
-  "name": "Omeka",
-  "options": {
-    "api": {
-    "url": "http://<omeka_url>/api",
-    "key_identity": "<your_identity>",
-    "key_credential": "<your_credential>"
-  }
-}]
-```
-
-In the config file, you'll need to fill in a few pieces of information that you can get from your Omeka S installation. Every part of the file where you see angle brackets \(&lt;&gt;\) is a piece of information you need to fill in \(remove the brackets when you copy your own information in, but leave the quotation marks\).
-
-* url: The URL of your Omeka site.
-* key\_identity: Copy and paste from the Omeka users page.
-* key\_credential: Copy and paste from the Omeka users page.
-
-Finally, **save your config file**. And you are done with the installation and configuration! There's no need to restart Tropy in order to start using the Omeka export.
 
 ## Using the Plugin
 
