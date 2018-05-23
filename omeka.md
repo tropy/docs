@@ -24,9 +24,9 @@ Installing the Omeka S plugin is a multi-step process.
 3. Now your Omeka plugin should appear in the Plugins pane. Click on _Enable_ to continue setup.
 4. In the form that opens when you enable the plugin, you now have to fill in all the fields in order for your plugin to work properly.
 
-   * Name: You can name your instance of the Omeka plugin anything you like. We recommend that you give it the same name as your Omeka site.
-   * API URL: Copy the URL of your Omeka site and paste it between the `< >` (removing the angle brackets). 
-   * Identity key and credential key: These two fields come from the page you should still have open in your Omeka installation. Copy and paste them into the appropriate fields.
+   * **Name**: You can name your instance of the Omeka plugin anything you like. We recommend that you give it the same name as your Omeka site.
+   * **API URL**: Copy the URL of your Omeka site and paste it between the `< >` (removing the angle brackets). 
+   * **Identity key and credential key**: These two fields come from the page you should still have open in your Omeka installation. Copy and paste them into the appropriate fields.
 
 Once you've filled in these fields, you're all set---you can now close the Preferences window.
 
