@@ -1,55 +1,56 @@
-# Summary
+# Table of contents
+
+* [Tropy Basics](README.md)
+* [What's New](whats-new.md)
 
 ## Before you begin
 
-* [What is Tropy?](README.md#tropy)
-* [Preparing to use Tropy](README.md#prepare)
-
-* [Who owns the rights to the archival materials I use?](/beginning/rights.md)
-
-* [What is metadata and how do I use it?](/beginning/metadata.md)
+* [Tropy Basics](before-you-begin/readme.md)
+* [Who owns the rights to the archival materials I use?](before-you-begin/rights.md)
+* [What is metadata and how do I use it?](before-you-begin/metadata.md)
 
 ## Using Tropy
 
-* [Create a new project.](/using_tropy/create_project.md)
-* [Add photos to Tropy.](/using_tropy/add_files.md)
+* [Create a new project.](using-tropy/create_project.md)
+* [Add photos to Tropy.](using-tropy/add_files.md)
 
 ## In the project view
 
-* [View photos in project view.](/using_tropy/project_view/view_photos.md)
-* [Combine photos into items.](/using_tropy/project_view/combine_photos.md)
-* [Add metadata to items.](/using_tropy/project_view/add_metadata.md)
-* [Tag items.](/using_tropy/project_view/tags.md)
-* [Organize items into lists.](/using_tropy/project_view/lists.md)
-* [Search for items, metadata, notes, or tags.](/using_tropy/project_view/search.md)
-* [Delete items.](/using_tropy/project_view/delete_photos.md)
+* [View photos in project view.](in-the-project-view/view_photos.md)
+* [Combine photos into items.](in-the-project-view/combine_photos.md)
+* [Add metadata to items.](in-the-project-view/add_metadata.md)
+* [Tag items.](in-the-project-view/tags.md)
+* [Organize items into lists.](in-the-project-view/lists.md)
+* [Search for items, metadata, notes, or tags.](in-the-project-view/search.md)
+* [Delete items.](in-the-project-view/delete_photos.md)
 
 ## In the item view
 
-* [Getting started in the item view](/using_tropy/item_view/item-view-basics.md)
-* [Edit photos in an item.](/using_tropy/item_view/photo-editing.md)
-* [Create selections within an item.](/using_tropy/item_view/selections.md)
-* [Take notes on or transcribe the content of an item.](/using_tropy/item_view/notes.md)
+* [Getting started in the item view](in-the-item-view/item-view-basics.md)
+* [Edit photos in an item.](in-the-item-view/photo-editing.md)
+* [Create selections within an item.](in-the-item-view/selections.md)
+* [Take notes on or transcribe the content of an item.](in-the-item-view/notes.md)
 
 ## In the template editor
 
-* [Getting started with templates](/using_tropy/templates/using-templates.md)
-* [Create a new template.](/using_tropy/templates/create-template.md)
-* [Edit a template.](/using_tropy/templates/edit-templates.md)
-* [Export and import templates.](/using_tropy/templates/export-import-templates.md)
-* [Add vocabularies.](/using_tropy/templates/vocabularies.md)
+* [Getting started with templates](in-the-template-editor/using-templates.md)
+* [Create a new template.](in-the-template-editor/create-template.md)
+* [Edit a template.](in-the-template-editor/edit-templates.md)
+* [Export and import templates.](in-the-template-editor/export-import-templates.md)
+* [Add vocabularies.](in-the-template-editor/vocabularies.md)
 
 ## Other features
 
-* [Export from Tropy](export.md)
-* [Export to Omeka S](/omeka.md)
-* [Keyboard shortcuts in Tropy](/keyboard-shortcuts.md)
-* [Preferences](preferencesmd.md)
+* [Export from Tropy](other-features/export.md)
+* [Export with plugins](other-features/export-with-plugins.md)
+* [Export to Omeka S](other-features/omeka.md)
+* [Print items](other-features/print-items.md)
+* [Keyboard shortcuts in Tropy](other-features/keyboard-shortcuts.md)
+* [Preferences](other-features/preferencesmd.md)
 
 ## Troubleshooting
 
-* [Forums](forums.md)
-* [Backup](backup.md)
-
-
+* [Moving Photos](troubleshooting/moving-photos.md)
+* [Reporting problems](troubleshooting/forums.md)
+* [Backup](troubleshooting/backup.md)
 
