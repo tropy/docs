@@ -1,6 +1,6 @@
 # Export from Tropy
 
-Tropy items can be exported as [JSON-LD](https://json-ld.org/), as well as to [Omeka S](http://omeka.org/s/).
+Tropy items can be exported as [JSON-LD](https://json-ld.org/), as well as to [Omeka S](http://omeka.org/s/) and to [CSV.](export-with-plugins.md#using-the-csv-export-plugin)
 
 ## To JSON-LD
 
@@ -10,7 +10,5 @@ At present, Tropy only exports metadata and notes to JSON-LD, not associated pho
 
 You can export your notes in either HTML or Markdown. To change which format you wish to use, navigate to _Preferences_ and scroll down to _Export_. Select either "Notes as HTML" or "Notes as Markdown."
 
-## [To Omeka S](omeka.md) <a id="omeka"></a>
 
-Export to Omeka S occurs through the Omeka plugin. In order to use it, you will need an existing Omeka S installation and access to the API information.
 
