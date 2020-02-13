@@ -29,10 +29,10 @@ Tropy currently works with these file formats:
 * JPG/JPEG
 * PNG
 * SVG
-
-It does not work with image files such as .tiff or .gif. You may need to convert your photos to JPG in order to use Tropy.
-
-Tropy also does not work with any non-image format files such as PDF. There are many online conversion tools to create JPGs from your PDFs or other image files.
+* TIFF
+* GIF
+* PDF
+* JP2000
 
 ### Download Tropy.
 
