@@ -20,7 +20,7 @@ Installing the Omeka S plugin is a multi-step process.
 
 ### **Part 3: In the Plugins Pane**
 
-1. Open Tropy and navigate to Preferences in the top menu. 
+1. Open Tropy and navigate to Preferences in the top menu \(in Windows, _Edit_ &gt; _Preferences_\). 
 2. In Preferences, click on Plugins. At the bottom of the Plugins pane, click on _Install Plugin_. Navigate to wherever you saved the plugin file from the GitHub repository; select it and click _Open._
 3. Now your Omeka plugin should appear in the Plugins pane. Click on _Enable_ to continue setup.
 4. In the form that opens when you enable the plugin, you now have to fill in all the fields in order for your plugin to work properly.

@@ -4,7 +4,7 @@
 
 #### 1. Download and install the plugin.
 
-Download the plugin [from GitHub](https://github.com/inukshuk/tropy-plugin-csv/releases/latest). Then, in Tropy, navigate to _Preferences_ &gt; _Plugins_. 
+Download the plugin [from GitHub](https://github.com/inukshuk/tropy-plugin-csv/releases/latest). Then, in Tropy, navigate to _Preferences_ &gt; _Plugins_ \(in Windows, _Edit &gt; Preferences &gt; Plugins_\). 
 
 Click on _Install Plugin_. In the dialogue box that opens, navigate to wherever you saved the plugin folder from GitHub; select it, then click _Open_. You have now installed the CSV Export plugin.
 

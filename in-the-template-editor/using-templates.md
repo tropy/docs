@@ -6,7 +6,7 @@ Metadata templates are forms that you select or create that allow you to record 
 
 ## Working with the template editor
 
-Access the template editor by navigating to Tropy &gt; Preferences. Click on the Templates icon.
+Access the template editor by navigating to Tropy &gt; Preferences \(in Windows, Tropy &gt; Edit &gt; Preferences\). Click on the Templates icon.
 
 ![](../.gitbook/assets/preferences-2x.png)
 
