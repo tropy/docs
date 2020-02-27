@@ -11,6 +11,7 @@
 
 ## Using Tropy
 
+* [Intro to the interface](using-tropy/intro-to-the-interface.md)
 * [Create a new project.](using-tropy/create_project.md)
 * [Add photos to Tropy.](using-tropy/add_files.md)
 
