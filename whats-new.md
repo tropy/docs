@@ -6,7 +6,7 @@ description: This page describes the new features from our current release.
 
 ### New in Tropy 1.7
 
-* **Copy and paste items with metadata:** Tropy now allows you to copy and paste items using JSON-LD. 
+* **Copy and paste items with metadata:** Tropy now allows you to [copy and paste](in-the-project-view/copy-and-paste-items..md) items using JSON-LD. 
 * **JSON-LD import:** You can now [import JSON-LD](using-tropy/add_files.md#importing-json-ld-files) files as Tropy items.
 * **Archive plugin:** You can now [bundle Tropy items](other-features/export-with-archive-plugin.md) \(photos, metadata, and notes\) into a zip archive that you can transfer to another device or user.
 

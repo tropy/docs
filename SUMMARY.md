@@ -23,6 +23,7 @@
 * [Tag items.](in-the-project-view/tags.md)
 * [Organize items into lists.](in-the-project-view/lists.md)
 * [Search for items, metadata, notes, or tags.](in-the-project-view/search.md)
+* [Copy and paste items.](in-the-project-view/copy-and-paste-items..md)
 * [Delete items.](in-the-project-view/delete_photos.md)
 
 ## In the item view
