@@ -1,4 +1,4 @@
-# Export with plugins
+# Export with CSV Export plugin
 
 ### Using the CSV Export Plugin
 

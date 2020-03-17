@@ -4,6 +4,12 @@ description: This page describes the new features from our current release.
 
 # What's New
 
+### New in Tropy 1.7
+
+* **Copy and paste items with metadata:** Tropy now allows you to copy and paste items using JSON-LD. 
+* **JSON-LD import:** You can now import JSON-LD files as Tropy items.
+* **Archive plugin:** You can now bundle Tropy items \(photos, metadata, and notes\) into a zip archive that you can transfer to another device or user.
+
 ### New in Tropy 1.6
 
 * **New thumbnail ratios:** Tropy now renders your thumbnails with proper aspect ratio \(not squares\). When you first update, your thumbnails may look weird or stretched because the aspect ratio has changed. They should correct themselves automatically.

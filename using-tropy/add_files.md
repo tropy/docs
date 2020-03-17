@@ -31,6 +31,10 @@ Tropy allows you to drag static images into Tropy directly from a web browser. C
 
 **Note:** This method does not work with images that are displayed within an interactive image browser \(such as the New York Public Library's interface\). To use images in an interactive browser, you'll need to use the download options and save a local copy of the image.
 
+### Importing JSON-LD files
+
+You can import JSON-LD files into Tropy. JSON-LD files allow both images and metadata to be imported into Tropy. To import JSON-LD files, follow the same procedure as importing an image, but be sure to import the JSON-LD file itself, not the associated images. The JSON-LD file will find the correct images to import along with the metadata.
+
 ## Consolidate your photo library.
 
 If you make changes to the originals of your photos, you will need to tell Tropy that you've made changes. \(For instance, perhaps you cropped or changed the contrast on a photo outside Tropy.\) This process is called consolidation.

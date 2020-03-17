@@ -43,7 +43,8 @@
 ## Other features
 
 * [Export from Tropy](other-features/export.md)
-* [Export with plugins](other-features/export-with-plugins.md)
+* [Export with CSV Export plugin](other-features/export-with-plugins.md)
+* [Export with Archive plugin](other-features/export-with-archive-plugin.md)
 * [Export to Omeka S](other-features/omeka.md)
 * [Print items](other-features/print-items.md)
 * [Keyboard shortcuts in Tropy](other-features/keyboard-shortcuts.md)
