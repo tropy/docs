@@ -1,6 +1,6 @@
 # Create a new project.
 
-A project is a collection of photographs. You can have only one project open in Tropy at any given time, which means that you cannot move photos from one project to another within Tropy. For that reason, it usually makes sense to conceive of a project in broad terms: a project as a book or thesis, not a chapter. You can use lists, tags, and/or notes to organize material within a Tropy project.
+A project is a collection of photographs. Because Tropy allows for a lot of flexibility in each project, it usually makes sense to conceive of a project in broad terms: a project as a book or thesis, not a chapter. You can use lists, tags, and/or notes to organize material within a Tropy project.
 
 **From the menu bar**: Click on _File_ &gt; _New_ &gt; _Project_.
 
@@ -16,5 +16,5 @@ Once you are in Tropy, if you need to find out where your project is saved, righ
 
 ### Open multiple projects at the same time_._
 
-To open multiple projects at the same time, navigate to _File &gt; Open in New Window_ and select the project you wish to open in addition to the project you currently have open.
+To open multiple projects at the same time, navigate to _File &gt; Open in New Window_ and select the project you wish to open in addition to the project you currently have open. You can [copy and paste items](../in-the-project-view/copy-and-paste-items..md) between projects \(though there is diminishing utility in this the more you do it; if you find you're copying large quantities of items, you should consider combining your two projects into one\).
 

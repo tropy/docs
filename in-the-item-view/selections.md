@@ -18,3 +18,7 @@ To enter more customized metadata about your selection, you can scroll down in t
 
 When you have a selection highlighted, whatever notes you type in the notes field attach to that selection.
 
+## Save a selection as its own image.
+
+You can export a selection to its own file, including all changes you've made using the photo editing tools. To do so, right-click on the selection in the Photos pane, and click _Export Selection_. Tropy will prompt you to save your selection. It will fill in a .png file extension; if you wish, you may change that extension to .jpg. Select where you want to save your selection, and click _Save_.
+

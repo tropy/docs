@@ -25,3 +25,7 @@ The _Invert colors_ checkbox allows you to reverse the colors in a negative, suc
 
 ![](../.gitbook/assets/photo-editing.png)
 
+## Save photos with edits.
+
+You can save your photos with the edits you've made to it. In the Photos pane, right-click on the photo you wish to save, then click _Export Photo_. Tropy will prompt you to save your photo. It will automatically fill in a .png file extension; if you wish, you may change that extension to .jpg. Select where you want to save your photo, and click _Save_.
+
