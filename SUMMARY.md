@@ -50,6 +50,7 @@
 * [Print items](other-features/print-items.md)
 * [Keyboard shortcuts in Tropy](other-features/keyboard-shortcuts.md)
 * [Preferences](other-features/preferencesmd.md)
+* [Collaboration](other-features/collaboration.md)
 
 ## Troubleshooting
 
