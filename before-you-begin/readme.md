@@ -33,6 +33,7 @@ Tropy currently works with these file formats:
 * GIF
 * PDF
 * JP2000
+* HEIC
 
 ### Download Tropy.
 
