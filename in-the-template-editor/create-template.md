@@ -4,7 +4,7 @@ There are several steps to creating a new template. Before you begin, you may wa
 
 When you're ready to make your template, navigate to Tropy &gt; Preferences and click to the Templates section. When you first open the Preferences pane, New Template will be the default, but if you click over to one of the other templates, you can get back to New Template by clicking on it in the Template drop-down box or by clicking the first button next to the drop-down.
 
-## Metadata about your template![](../.gitbook/assets/template-header-2x.png)
+## Metadata about your template![](../.gitbook/assets/template-header@2x.png)
 
 Your template starts with metadata about the template.
 
@@ -24,7 +24,7 @@ Now that you have the metadata about your template, you can create fields in you
 
 Tropy currently only allows fields that have URIs in an existing metadata schema. This means that if you have no familiarity with metadata schemas, you are much better off working with an existing template rather than trying to create your own from scratch.
 
-![](../.gitbook/assets/template-fields-2x.png)
+![](../.gitbook/assets/template-fields@2x.png)
 
 * **Property**: The drop-down box here allows you to select from a list of properties that appear in various metadata schemas. The Dublin core fields are the default; you can add other metadata schemas in the [Vocabulary](vocabularies.md) section in Preferences.
   * You can search for metadata terms by clicking in the Property field and starting to type a term. Click on the term that you want.

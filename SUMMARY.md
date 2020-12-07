@@ -5,7 +5,7 @@
 
 ## Before you begin
 
-* [Tropy Basics](before-you-begin/readme.md)
+* [Tropy Basics](before-you-begin/before-you-begin.md)
 * [Who owns the rights to the archival materials I use?](before-you-begin/rights.md)
 * [What is metadata and how do I use it?](before-you-begin/metadata.md)
 

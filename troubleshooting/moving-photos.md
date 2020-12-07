@@ -18,7 +18,7 @@ To re-associate your photos, right-click on one of the photos and click _Consoli
 
 Once you've selected the new location, click _OK._ Another box will pop up asking "Do you want Tropy to automatically check and resolve further missing photos at this location?" If you click _Yes,_ Tropy will use the location you've just provided to re-associate all the other photos it can find based on their relationship to your newly identified photo. 
 
-![The dialog box asks whether you want Tropy to look for your other photos as well.](../.gitbook/assets/auto-consolidation-check%20%281%29.png)
+![The dialog box asks whether you want Tropy to look for your other photos as well.](../.gitbook/assets/auto-consolidation-check%20%281%29%20%281%29.png)
 
 
 

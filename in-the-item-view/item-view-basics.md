@@ -15,5 +15,5 @@ Item view is where you can focus on the content of your items. You can edit meta
 | Fit image to width | Ctrl/Command+0 |
 |  |  |
 
-![](../.gitbook/assets/item-view.png)
+![](../.gitbook/assets/Item-view.png)
 
