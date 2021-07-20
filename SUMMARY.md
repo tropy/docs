@@ -54,7 +54,7 @@
 
 ## Troubleshooting
 
-* [Moving Photos](troubleshooting/moving-photos.md)
+* [Moving photos](troubleshooting/moving-photos.md)
 * [Reporting problems](troubleshooting/forums.md)
 * [Backup](troubleshooting/backup.md)
 

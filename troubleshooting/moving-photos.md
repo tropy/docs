@@ -4,7 +4,7 @@ description: >-
   them to a different location.
 ---
 
-# Moving Photos
+# Moving photos
 
 Generally, we recommend that you put your photos into a permanent home before you put them into Tropy. However, sometimes you have to move your photos once you've put them in. 
 
