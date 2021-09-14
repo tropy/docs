@@ -4,6 +4,10 @@ description: This page describes the new features from our current release.
 
 # What's New
 
+### New in Tropy 1.10
+
+* **New way of linking your photos!** In the past, if you've wanted to be able to move your photos around, you had to follow a somewhat hackneyed process to create what we were calling a portable project. We've gotten rid of portable projects in favor of a much easier solution--you can now select whether you want your photos to be linked to Tropy using relative paths or absolute paths. More in our main docs page about this.
+
 ### New in Tropy 1.7
 
 * **Copy and paste items with metadata:** Tropy now allows you to [copy and paste](in-the-project-view/copy-and-paste-items..md) items using JSON-LD. 

@@ -18,6 +18,22 @@ Under _Preferences_, you can customize your installation of Tropy in several way
 
 **Print**: Select your print option here. See more at [Print items](print-items.md).
 
+## Project
+
+**Name:** You can change the name of your project here if you wish.
+
+**ID:** You can't change this; it's to help Tropy find your project internally.
+
+**File:** This is ****where you can find your file, if you ever need to access the file.
+
+**Link photos:** Link photos replaces the portable projects hack. Here, you tell Tropy what the relationship is between the project file and the image files.
+
+* Using absolute paths: This option is how Tropy operates by default. If you choose this option, you can move your project file wherever you like, but you will have to consolidate your photos if you move your photos.
+* Relative to the project file: Select this option if you may want to move your photos and your project file together, or if you store your photos in the same location as your project file \(either in a hard drive or a cloud drive\). You can open your Tropy project from multiple devices, but you should not move your photos without also moving your project file. 
+* Relative to your home directory: This option is the one for you if you store your photos and project file in Dropbox or another cloud drive, and you open your photos on multiple computers where your home directory might have a different name or location. Your photos and project file should be in the same drive, but that drive may be accessed from multiple devices.
+
+You can change this option at any point; however, be sure your photos are fully consolidated \(the links are all intact\) before making a change. If you make an error in selecting the right option for your situation, you can always [consolidate your photos](../troubleshooting/moving-photos.md#re-associating-photos) again to restore the links.
+
 ## Templates
 
 For more information on the Templates section, visit the [templates section of the documentation](../in-the-template-editor/using-templates.md).
