@@ -6,7 +6,7 @@ description: This page describes the new features from our current release.
 
 ### New in Tropy 1.10
 
-* **New way of linking your photos!** In the past, if you've wanted to be able to move your photos around, you had to follow a somewhat hackneyed process to create what we were calling a portable project. We've gotten rid of portable projects in favor of a much easier solution--you can now select whether you want your photos to be linked to Tropy using relative paths or absolute paths. More in our main docs page about this.
+* **New way of linking your photos!** In the past, if you've wanted to be able to move your photos around, you had to follow a somewhat hackneyed process to create what we were calling a portable project. We've gotten rid of portable projects in favor of a much easier solution--you can now [select whether you want your photos to be linked to Tropy](other-features/preferencesmd.md#project) using relative paths or absolute paths. 
 
 ### New in Tropy 1.7
 
