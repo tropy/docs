@@ -34,7 +34,9 @@ Tropy currently works with these file formats:
 * GIF
 * PDF
 * JP2000
+* WEBP
 * HEIC
+* AVIF
 
 ### Download Tropy.
 
