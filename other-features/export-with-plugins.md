@@ -1,10 +1,10 @@
-# Export with CSV Export plugin
+# Export with CSV plugin
 
-### Using the CSV Export Plugin
+### Using the CSV Plugin
 
 #### 1. Download and install the plugin.
 
-Download the plugin [from GitHub](https://github.com/inukshuk/tropy-plugin-csv/releases/latest). Then, in Tropy, navigate to _Preferences_ &gt; _Plugins_ \(in Windows, _Edit &gt; Preferences &gt; Plugins_\). 
+Download the plugin zip file from the [latest release in GitHub](https://github.com/tropy/tropy-plugin-csv/releases/latest). Then, in Tropy, navigate to _Preferences_ &gt; _Plugins_ \(in Windows, _Edit &gt; Preferences &gt; Plugins_\).
 
 Click on _Install Plugin_. In the dialogue box that opens, navigate to wherever you saved the plugin folder from GitHub; select it, then click _Open_. You have now installed the CSV Export plugin.
 
@@ -18,11 +18,13 @@ You will see there several options for customization. You can change the name of
 
 ![CSV Export customization window](../.gitbook/assets/csv-export-customization.png)
 
-The field labeled Template tells Tropy exactly which fields you want to include in the CSV export. If you are exporting items that all use the same custom template, you should [find the URI](../in-the-template-editor/using-templates.md) of that custom template and paste it into the Template field here. That ensures that all the fields are exported and in the order you expect. 
+The fields labeled Item Template and Photo Template tell Tropy exactly which fields you want to include in the CSV export. If you are exporting items that use a custom template for items or photos, you should select that template in the appropriate Template field here. That ensures that all the fields are exported and in the order you expect.
 
-If you're exporting multiple items that use multiple templates, you'll want to create a new template in the [template editor](../in-the-template-editor/create-template.md) that includes all the fields you want in your export. Then paste the URI of that template into the Template field here in Plugins. 
+If you're exporting multiple items that use multiple templates for items or photos, you'll want to create a new template in the [template editor](../in-the-template-editor/create-template.md) that includes all the fields you want in your export. Then select that template in the Item Template or Photo Template field here in Plugins.
 
-You can also set the default file name of the export \(though this can be changed when you're using the plugin\).
+You can also set the default file name of the export \(though this can be changed when you're using the plugin\), or choose to copy the exported data to your clipboard instead.
+
+For more details about the various customization options, see the [plugin README](https://github.com/tropy/tropy-plugin-csv/blob/master/README.md)
 
 #### 3. Use the plugin to export items.
 
@@ -43,4 +45,3 @@ Your CSV should be complete! If you look at the CSV in another application, you'
 If you anticipate exporting items in specific different categories often \(e.g., newspapers and correspondence\), you may wish to have two separate instances of the plugin so you don't have to switch back and forth between your Newspaper template and your Correspondence template in the Plugin settings. To add another instance, click on the plus sign next to the first plugin instance to add another instance and customize it as you wish \(without deleting the first instance\). Be sure you name it something different!
 
 ![Multiple CSV plugin instances](../.gitbook/assets/multiple-csv-instance.png)
-
