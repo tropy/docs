@@ -35,6 +35,10 @@ Tropy allows you to drag static images into Tropy directly from a web browser. C
 
 You can import JSON-LD files into Tropy. JSON-LD files allow both images and metadata to be imported into Tropy. To import JSON-LD files, follow the same procedure as importing an image, but be sure to import the JSON-LD file itself, not the associated images. The JSON-LD file will find the correct images to import along with the metadata.
 
+### Importing from CSV files
+
+You can use the CSV plugin to bulk import items, photos and metadata into Tropy from a CSV file or spreadsheet. The process for installing the plugin and creating a file in the required format is documented in the [plugin repository README](https://github.com/tropy/tropy-plugin-csv/blob/master/README.md).
+
 ## Consolidate your photo library.
 
 If you make changes to the originals of your photos, you will need to tell Tropy that you've made changes. \(For instance, perhaps you cropped or changed the contrast on a photo outside Tropy.\) This process is called consolidation.
