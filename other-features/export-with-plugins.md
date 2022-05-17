@@ -28,7 +28,7 @@ For more details about the various customization options, see the [plugin README
 
 #### 3. Use the plugin to export items.
 
-Once you have customized the plugin, close the Preferences window \(there's no Save button---your settings autosave\). 
+Once you have customized the plugin, close the Preferences window \(there's no Save button---your settings autosave\).
 
 In your item table, right-click on the item you wish to export, or select multiple items and then right-click. Navigate to _Export Selected Items_ and click on the name of the CSV Export plugin \(remember that you might have given it a different name in the Plugins customization window\).
 
@@ -38,7 +38,7 @@ A dialog box will open. Select where you want to save your exported CSV and chan
 
 #### 4. Look at your CSV in another application.
 
-Your CSV should be complete! If you look at the CSV in another application, you'll notice that the header row is the URIs of the fields in your chosen metadata template. Tropy exports using the URIs because it's possible that you have multiple labels for the same property across various templates. 
+Your CSV should be complete! If you look at the CSV in another application, you'll notice that the header row is the URIs of the fields in your chosen metadata template. Tropy exports using the URIs because it's possible that you have multiple labels for the same property across various templates.
 
 #### Notes
 
