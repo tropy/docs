@@ -16,7 +16,7 @@ Then click on the name of the plugin to open up a customization panel within the
 
 You will see there several options for customization. You can change the name of your plugin instance if you wish. Then check the boxes for the options you want.
 
-![CSV Export customization window](../.gitbook/assets/csv-export-customization.png|width=599px)
+![CSV Export customization window](../.gitbook/assets/csv-export-customization.png)
 
 The field labeled Template tells Tropy exactly which fields you want to include in the CSV export. If you are exporting items that all use the same custom template, you should [find the URI](../in-the-template-editor/using-templates.md) of that custom template and paste it into the Template field here. That ensures that all the fields are exported and in the order you expect.
 
