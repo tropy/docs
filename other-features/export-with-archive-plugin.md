@@ -10,13 +10,15 @@ Then navigate to Preferences &gt; Plugins. Click on "Install plugin" and navigat
 
 ![Plugins window with Archive plugin active](../.gitbook/assets/screen-shot-2020-03-17-at-11.39.29-am.png)
 
-The plugin should now appear in your list of plugins. Click "Enable" to activate the plugin.
+### Activate and customize the plugin
 
-You'll then see a number of options. You can give your plugin a name, if you like \(or you can leave it blank\). The "Root folder" option tells Tropy where to save your archive when you've generated it. You can set a place on your computer that your archive will automatically save to. You can also change where the images are saved, if you want them separate from the metadata \(though we do not recommend this for general use\). 
+The plugin should now appear in your list of plugins. Click _Enable_ to activate the plugin.
 
-The "Save as" allows you to customize the location of the save as well as the name of the ZIP folder.
+You'll then see a number of options. You can give your plugin a name, if you like \(or you can leave it blank\).
 
-If you select "Always ask?" you will get a dialog box every time you use the plugin in the main Tropy interface that asks you where you'd like to save the folder and what you'd like to call it.
+The "Root folder" option tells Tropy what to name the folder inside the ZIP archive which will contain all your exported data. If you want the images to be saved in a folder inside this root folder, separate from the metadata file, you can set the "Image folder" option \(though we do not recommend this for general use\).
+
+The "Save as" option allows you to customize the location and file name for the ZIP archive that will be created. If you select "Always ask?" you will get a dialog box every time you use the plugin in the main Tropy interface that asks you where you'd like to save the ZIP archive and what you'd like to call it.
 
 Once you've set up your preferences, close the Preferences window \(no save necessary\).
 
