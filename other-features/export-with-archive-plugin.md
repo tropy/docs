@@ -2,11 +2,13 @@
 
 The Archive plugin allows you to export items in full--including photos, metadata, and notes--to a ZIP archive. This ZIP archive can then be transferred to another computer or device.
 
-### Getting the Archive plugin
+## Getting the Archive plugin
 
-First, download the latest release [here](https://github.com/tropy/tropy-plugin-archive/releases). 
+### Download and install the plugin
 
-Then navigate to Preferences &gt; Plugins. Click on "Install plugin" and navigate to wherever the ZIP folder saved on your computer. Select the ZIP folder \(don't unzip it\) and click "Open."
+First, download the latest release [here](https://github.com/tropy/tropy-plugin-archive/releases).
+
+Then navigate to _Preferences &gt; Plugins_. Click on _Install plugin_ and navigate to wherever the ZIP folder saved on your computer. Select the ZIP folder \(don't unzip it\) and click _Open_.
 
 ![Plugins window with Archive plugin active](../.gitbook/assets/screen-shot-2020-03-17-at-11.39.29-am.png)
 
@@ -22,11 +24,10 @@ The "Save as" option allows you to customize the location and file name for the 
 
 Once you've set up your preferences, close the Preferences window \(no save necessary\).
 
-### Using the Archive plugin
+## Using the Archive plugin
 
-To export using the archive plugin, select the item or items you want to archive. Right-click on the item\(s\) and navigate to Export. Then select the name that you gave the plugin. 
+To export using the archive plugin, select the item or items you want to archive. Right-click on the item\(s\) and navigate to _Export_. Then select the name that you gave the plugin.
 
 ![How to use the archive plugin \(notice that it&apos;s called ZIP Export, which is the name we gave it above\).](../.gitbook/assets/screen-shot-2020-03-17-at-2.24.57-pm.png)
 
-If you selected "Always ask?" a dialog box will open and you can select the place you wish to save and the name you wish your folder to have. If you did not, then your ZIP archive will save to the location you set in Preferences. 
-
+If you selected "Always ask?" a dialog box will open and you can select the place you wish to save and the name you wish your folder to have. If you did not, then your ZIP archive will save to the location you set in _Preferences_.
