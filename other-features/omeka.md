@@ -8,19 +8,19 @@ Installing the Omeka S plugin is a multi-step process.
 
 ### **Part 1: Preparation**
 
-1. Navigate to the plugin's GitHub repository [here](https://github.com/tropy/tropy-omeka/releases/latest).
-2. Download the source code for the Omeka S plugin. Windows users should select .zip; Linux users should select tar.gz; Mac users can select either.
+1. Navigate to the plugin's [GitHub repository](https://github.com/tropy/tropy-plugin-omeka/releases/latest).
+2. Download the named Zip file containing the Omeka S plugin, but don't extract it.
 
 ### **Part 2: In Omeka S**
 
 1. Navigate to your Omeka's admin panel and click on _Users_. In the list of users, each name has a pencil next to it. Click on the pencil to open the user profile. Read more about how to add or edit users [here](https://omeka.org/s/docs/user-manual/admin/users/).
 2. In the user profile, click on _API keys._
 3. You now need to add a new key. Type a name into the _New key label_ field and hit _Enter._
-4. You should get a box that generates a _key\_identity_ and a _key\_credential_. **Do not close this browser page until you have finished the process of installing and configuring the Tropy plugin.**![](../.gitbook/assets/api-key.bin)
+4. You should get a box that generates a _key\_identity_ and a _key\_credential_. **Do not close this browser page until you have finished the process of installing and configuring the Tropy plugin.**![Screenshot of Omeka S interface showing the notice after an API key is created.](../.gitbook/assets/api-key.bin)
 
 ### **Part 3: In the Plugins Pane**
 
-1. Open Tropy and navigate to Preferences in the top menu \(in Windows, _Edit_ &gt; _Preferences_\). 
+1. Open Tropy and navigate to Preferences in the top menu \(in Windows, _Edit_ &gt; _Preferences_\).
 2. In Preferences, click on Plugins. At the bottom of the Plugins pane, click on _Install Plugin_. Navigate to wherever you saved the plugin file from the GitHub repository; select it and click _Open._
 3. Now your Omeka plugin should appear in the Plugins pane. Click on _Enable_ to continue setup.
 4. In the form that opens when you enable the plugin, you now have to fill in all the fields in order for your plugin to work properly.
