@@ -10,7 +10,7 @@ Under _Preferences_, you can customize your installation of Tropy in several way
 
 **Theme**: Select light or dark mode.
 
-**Locale**: Tropy can be used in multiple languages. Select your preferred language. If you do not see the language you prefer to work in, and you would be willing to help us translate Tropy into that language, please join our [translation team](https://www.transifex.com/chnm/tropy/) at Transifex! Tropy currently has locales in English, French, German, Italian, Japanese, Chinese, and Spanish.
+**Locale**: Tropy can be used in multiple languages. Select your preferred language. If you do not see the language you prefer to work in, and you would be willing to help us translate Tropy into that language, please join our [translation team](https://www.transifex.com/cds/tropy/) at Transifex! Tropy currently has locales in English, French, German, Italian, Japanese, Chinese, and Spanish.
 
 **Interface**: The preferences here help you match Tropy's behavior to your typical scrolling behavior.
 
