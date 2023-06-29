@@ -10,13 +10,13 @@ To change from the stacked layout \(the photo editor on top of the notes pane\) 
 
 You can format your notes using the toolbar at the top of the notes pane. Select the text you want to format and click the button on the toolbar. Functions available for formatting are:
 
-* Boldface
-* Italic
-* Underline
-* Strikethrough
-* Block quote
-* Superscript
-* Subscript
+* Boldface [Ctrl/Cmd + b]
+* Italic [Ctrl/Cmd + i]
+* Underline [Ctrl/Cmd + u]
+* Strikethrough [Shift + Ctrl/Cmd + t]
+* Block quote [Shift + Ctrl/Cmd + > or Shift + Ctrl/Cmd + .]
+* Superscript [Shift + Ctrl/Cmd + p]
+* Subscript [Shift + Ctrl/Cmd + b]
 * Bulleted list \(the last two buttons allow you to have multiple levels of indent on your lists for both bullet and enumerated lists\)
 * Enumerated list
 * Hyperlink
