@@ -129,7 +129,7 @@ _Property used_: purl.org/dc/elements/1.1/identifier
 
 _Rights_ is information about how you, a researcher, can use each item. This can include copyright information, as well as specific information from the archive where the image came from. Where possible, best practice is to include a link/URL to the information on rights provided by the archive or library where the source is located.
 
-See Tropy’s [rights documentation](https://docs.tropy.org/beginning/rights.html) for more information on how to assess and describe rights for your sources.
+See Tropy’s [rights documentation](https://docs.tropy.org/before-you-begin/rights) for more information on how to assess and describe rights for your sources.
 
 _Mandatory field_: Given how easy it is to share digital images and publish them online, Rights is a required field in all the templates shipped with Tropy in order to emphasize how important it is that researcher know and acknowledge the rights they have to publish their photos.
 
