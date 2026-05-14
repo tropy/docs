@@ -16,7 +16,7 @@ See [the plugin documentation](https://github.com/tropy/tropy-plugin-iiif) for m
 > available in Lewis Walpole Library,
 > Yale University
 
-[https://collections.library.yale.edu/catalog/16193053]()
+[IIIF Manifest](https://collections.library.yale.edu/catalog/16193053)
 
 ## Sample IIIF manifest for a manuscript containing multiple images
 
@@ -25,7 +25,4 @@ See [the plugin documentation](https://github.com/tropy/tropy-plugin-iiif) for m
 > (Roma: G. Mascardi, 1628),
 > National Gallery of Art (US) Library
 
-[https://libraryimage.nga.gov/manifest/mms/99682033504896.json]()
-
-
-
+[IIIF Manifest](https://libraryimage.nga.gov/manifest/mms/99682033504896.json)
