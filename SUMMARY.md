@@ -47,6 +47,7 @@
 * [Export with CSV Export plugin](other-features/export-with-plugins.md)
 * [Export with Archive plugin](other-features/export-with-archive-plugin.md)
 * [Export to Omeka S](other-features/omeka.md)
+* [Import IIIF Manifests](other-features/iiif.md)
 * [Print items](other-features/print-items.md)
 * [Keyboard shortcuts in Tropy](other-features/keyboard-shortcuts.md)
 * [Preferences](other-features/preferencesmd.md)
